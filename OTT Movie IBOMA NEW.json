@@ -1,0 +1,3654 @@
+{
+  "OTT Movie": {
+	"Movie Slider":[
+		{
+			"id": 1,
+			"Video_Id": "scNmYjoR-qM",
+			"Movie_name": "Adipurush",
+			"Geners":"Action, Romance",
+			"Description": "Adipurush is an upcoming Indian Hindu mythological film based on the Hindu epic Ramayana.The film is written and directed by Om Raut and produced by T-Series and Retrophiles.",
+			"Movieimg": "https://i.ytimg.com/vi/scNmYjoR-qM/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "1VhA9aITCGg",
+			"Movie_name": "Pushpa 2 - The Rule",
+			"Geners":"Action, Drama",
+			"Description": "A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business.",
+			"Movieimg": "https://i.ytimg.com/vi/1VhA9aITCGg/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "3Jk3vquJDGs",
+			"Movie_name": "The Kerala Story",
+			"Geners":"Historical Drama, Crime",
+			"Description": "‘The Kerala Story' narrates the tales of three young girls from various regions of Kerala, with the primary focus on the story of Shalini, who is abducted and subsequently converted to Islam. Shalini is then radicalized. and compelled to join ISIS as a terrorist.",
+			"Movieimg": "https://i.ytimg.com/vi/3Jk3vquJDGs/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "gQRqe1nIZEM",
+			"Movie_name": "KABZAA",
+			"Geners":"Gangster Action Drama",
+			"Description": "During the British rule in 1945, Amareshwara, a freedom fighter, gets brutally killed by the British.His wife, Tulasi Devi, and sons, Arkeshwara and Sankeshwara, relocate to Amarapura and work as flag sellers.",
+			"Movieimg": "https://i.ytimg.com/vi/gQRqe1nIZEM/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "RCMxX6lWJcY",
+			"Movie_name": "Zwigato",
+			"Geners":"Drama",
+			"Description": "A man works as a food delivery rider, grappling with the world of ratings and incentives. To support the income, his homemaker wife begins to explore different work opportunities, with fear but also excitement of a new found independence.",
+			"Movieimg": "https://i.ytimg.com/vi/RCMxX6lWJcY/maxresdefault.jpg"
+		}
+	],
+	"Bollywood Movie":[
+		{
+			"id": 1,
+			"Video_Id": "eBajPc7QZ-Y",
+			"Movie_name": "Doctor G",
+			"Geners":"Drama Comedy",
+			"Description": "Doctor G is a 2022 Indian Hindi-language comedy-drama film directed by Anubhuti Kashyap and produced by Junglee Pictures. It stars Ayushmann Khurrana, Rakul Preet Singh and Shefali Shah.",
+			"Movieimg": "https://resize.indiatvnews.com/en/resize/newbucket/730_-/2022/10/doctor-g-1-1665731882.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "VgGgYOzNWno",
+			"Movie_name": "Ram Setu",
+			"Geners":"Action Adventure, Drama",
+			"Description": "Ram Setu is a 2022 Indian Hindi-language action-adventure film directed by Abhishek Sharma. The film stars Akshay Kumar, Jacqueline Fernandez, Nushrratt Bharuccha and Satya Dev and follows an archeologist who is investigating the nature of Rama Setu, also known as Adam's Bridge.",
+			"Movieimg": "https://i.ytimg.com/vi/VgGgYOzNWno/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "V-jL6An02I8",
+			"Movie_name": "Antim: The Final Truth",
+			"Geners":"Action Thriller, Drama",
+			"Description": "Antim: The Final Truth is a 2021 Indian Hindi-language action film directed by Mahesh Manjrekar and produced by Salman Khan Films. Distributed by Zee Studios, it is an adaptation of the Marathi film Mulshi Pattern,and stars Salman Khan, Aayush Sharma, Mahima Makwana and Jisshu Sengupta.",
+			"Movieimg": "https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/antim-trailer-main.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "yrGcVuhG5k4",
+			"Movie_name": "Chakravyuh",
+			"Geners":"Crime Thriller",
+			"Description": "Chakravyuh is a 2012 Indian naxal propaganda Hindi-language political action thriller film directed by Prakash Jha starring Arjun Rampal in the lead role with Abhay Deol, Esha Gupta, Manoj Bajpayee and Anjali Patil in supporting roles.",
+			"Movieimg": "https://i.ytimg.com/vi/yrGcVuhG5k4/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "TkLWp63iurs",
+			"Movie_name": "Ek Villain return",
+			"Geners":"Action Romance, Thriller",
+			"Description": "Ek Villain Returns is a 2022 Indian Hindi-language action thriller film written and directed by Mohit Suri, being a standalone sequel to his 2014 film Ek Villain, and produced by T-Series and Balaji Motion Pictures.It stars John Abraham, Arjun Kapoor, Disha Patani and Tara Sutaria.",
+			"Movieimg": "https://i.ytimg.com/vi/TkLWp63iurs/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "Yui0K2nOLg8",
+			"Movie_name": "Vadh",
+			"Geners":"Drama Thriller",
+			"Description": "Vadh is a 2022 Indian Hindi-language thriller film written and directed by Jaspal Singh Sandhu, Rajiv Barnwal and produced by Luv Films.Vadh was scheduled to theatrical released on December 9, 2022.",
+			"Movieimg": "https://www.nowrunning.com/content/movie/2022/vadh-27283/bg.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "s_KN1asDGC4",
+			"Movie_name": "Mimi",
+			"Geners":"Comedy Drama",
+			"Description": "Mimi is a 2021 Indian Hindi-language comedy-drama film directed by Laxman Utekar and produced by Dinesh Vijan under Maddock Films. A remake of the 2011 Marathi film Mala Aai Vhhaychy!",
+			"Movieimg": "https://cdn.bollywoodbubble.com/wp-content/uploads/2021/07/mimi-trailer-1.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "4mvN-u8VLP4",
+			"Movie_name": "Dasvi",
+			"Geners":"Social Comedy",
+			"Description": "Dasvi is a 2022 Indian Hindi-language social comedy film directed by debutante Tushar Jalota and produced by Dinesh Vijan under his banner Maddock Films in collaboration with Jio Studios",
+			"Movieimg": "https://i.ytimg.com/vi/stnfydP0cqA/maxresdefault.jpg"		
+		},
+		{
+			"id": 9,
+			"Video_Id": "qo2pSnJrelY",
+			"Movie_name": "Race 2",
+			"Geners":"Crime Thriller, Action",
+			"Description": "Race 2 is a 2013 Indian Hindi-language action crime film directed by Abbas-Mustan and written by Kiran Kotrial and Shiraz Ahmed.",
+			"Movieimg": "https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/57643569.jpg"			
+		},
+		{
+			"id": 10,
+			"Video_Id": "te9RQ1xkzqo",
+			"Movie_name": "JOLLY LLB",
+			"Geners":"Drama, Comedy",
+			"Description": "Jolly LLB is a 2013 Indian Hindi-language black comedy film, written and directed by Subhash Kapoor.",
+			"Movieimg": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/6491/1316491-h-d513db45a4a5"
+		},
+		{
+			"id": 11,
+			"Video_Id": "EZOiQ29xNbk",
+			"Movie_name": "Players",
+			"Geners":"Action, Thriller",
+			"Description": "Players is a 2012 Indian Hindi-language action thriller film directed by the duo Abbas–Mustan and jointly produced by Viacom 18 Motion Pictures and Burmawala Partners.",
+			"Movieimg": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-0-414223/list/1170x658withlogo520873146.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "5zYC-Jp2Dx0",
+			"Movie_name": "Simmba",
+			"Geners":"Action Comedy, Drama",
+			"Description": "Simmba is a 2018 Indian Hindi-language action film directed by Rohit Shetty from a script written by Yunus Sajawal and Sajid-Farhad. The third installment of Shetty's Cop Universe film franchise.",
+			"Movieimg": "https://img.etimg.com/thumb/msid-67318179,width-1200,height-900,imgsize-476712,overlay-etpanache/photo.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "nE8v4LbxNTE",
+			"Movie_name": "Jai Ho",
+			"Geners":"Action, Drama",
+			"Description": "A former Indian military officer devises a unique plan to promote social responsibility amongst apathetic civilians. The masses embrace his initiative, but he must confront a potent political family.",
+			"Movieimg": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2014/01/jai-ho-box-office-draft-20.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "xbZvBWWu9dA",
+			"Movie_name": "Badhaai Do",
+			"Geners":"Comedy, Drama",
+			"Description": "Badhaai Do is a 2022 Indian Hindi comedy drama film written by Suman Adhikary and Akshat Ghildial and directed by Harshavardhan Kulkarni.",
+			"Movieimg": "https://i.ytimg.com/vi/ACf4imlRc84/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "Nt3U3sZn5kw",
+			"Movie_name": "Humshakal",
+			"Geners":"Romance, Comedy",
+			"Description": "Humshakals is a 2014 Indian Hindi-language comedy film directed by Sajid Khan and produced by Vashu Bhagnani.",
+			"Movieimg": "https://i.ytimg.com/vi/Nt3U3sZn5kw/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "iV2VMFc1PzA",
+			"Movie_name": "Singham Returns",
+			"Geners":"Action Romance, Drama",
+			"Description": "Singham Returns is a 2014 Indian Hindi-language action film written and directed by Rohit Shetty as the second installment of his Cop Universe.",
+			"Movieimg": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/1680/-/0/45/85/84439361744711e688d58522ba040c22_1605257484385_l_medium.jpg"
+		}
+	],
+	"South Movie":[
+		{
+			"id": 1,
+			"Video_Id": "8-1biVKMzDw",
+			"Movie_name": "Kantara",
+			"Geners":"Action Adventure, Thriller Drama",
+			"Description": "Kantara is a 2022 Indian Kannada-language action thriller film written and directed by Rishab Shetty, and produced by Vijay Kiragandur, under Hombale Films.",
+			"Movieimg": "https://www.91-cdn.com/hub/wp-content/uploads/2022/11/kantara-hindi-ott-netflix-feat.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "7_-fTlskezg",
+			"Movie_name": "Vikram Vedha",
+			"Geners":"Crime Thriller, Mystery, Drama",
+			"Description": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.",
+			"Movieimg": "https://i.ytimg.com/vi/7_-fTlskezg/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "410On7aRFn8",
+			"Movie_name": "Arrambam",
+			"Geners":"Action, Drama",
+			"Description": "Arrambam is a 2013 Indian Tamil-language action thriller film directed by Vishnuvardhan. Produced by A. Raghuram and co-written by Subha, the film stars Ajith Kumar, Arya, Nayanthara and Taapsee Pannu.",
+			"Movieimg": "https://i.ytimg.com/vi/410On7aRFn8/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "jXN9Ot2bwa8",
+			"Movie_name": "Bhagmati Returns",
+			"Geners":"Horror Comedy, Drama",
+			"Description": "In the film, Priyamani plays a never seen before character while donning a dual role.  The actress looks charming and adds glamour and class to the film. However, there is more to her character than just glamour.",
+			"Movieimg": "https://i.ytimg.com/vi/jXN9Ot2bwa8/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "HhwokSSvuo0",
+			"Movie_name": "RRR",
+			"Geners":"Historical drama, Action Adventure",
+			"Description": "RRR is a 2022 Indian Telugu-language epic action drama film directed by S. S. Rajamouli who wrote the film with V. Vijayendra Prasad. It is produced by D. V. V. Danayya of DVV Entertainment.",
+			"Movieimg": "https://cdn.tollywood.net/wp-content/uploads/2022/03/RRR-Movie-Review-and-Rating.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "zR52MgYhm_Q",
+			"Movie_name": "Mr. Majnu",
+			"Geners":"Romance, Comedy",
+			"Description": "Vikram Krishna a.k.a Vicky is a handsome boy who flirts with everyone and has never been in a serious relationship. Nikitha a.k.a Nikki is a girl who dreams of having a husband like Lord Shri Rama who will love her and take care of her.",
+			"Movieimg": "https://i.ytimg.com/vi/zR52MgYhm_Q/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "gKizDojsdvs",
+			"Movie_name": "K.G.F",
+			"Geners":"Action Romance, Thriller",
+			"Description": "The movie dates back to 1951. Here, two incidents take place; The birth of the hero and other in the Kolar Gold Fields (K.G.F) they get gold. The hero is brought up in poverty.",
+			"Movieimg": "https://i.ytimg.com/vi/gKizDojsdvs/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "oAvNsimUqBM",
+			"Movie_name": "Madhagaja",
+			"Geners":"Romantic, Action",
+			"Description": "Madhagaja is a 2021 Indian Kannada-language action drama film directed by S. Mahesh Kumar and produced by Umapathy Srinivas under the banner of Umapathy Films. The film features Sriimurali, Ashika Ranganath and Jagapathi Babu in the lead roles. The film released in theatres on 3 December 2021.",
+			"Movieimg": "https://i.ytimg.com/vi/oAvNsimUqBM/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "hhr8IWP9XCc",
+			"Movie_name": "RAW KHILADI 2",
+			"Geners":"Action, Thriller",
+			"Description": "The story starts off with a police informer calling up Bharadwaj (Ravi Kishan) with information on criminal Padmanabham (Arjun Sarja) saying that Padmanabham is at a bar wearing a suit.",
+			"Movieimg": "https://i.ytimg.com/vi/hhr8IWP9XCc/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "IMCDispQSTI",
+			"Movie_name": "Googly",
+			"Geners":"Romance, Comedy",
+			"Description": "Sharath and Swathi meet in Bangalore and fall in love but due to misunderstandings, they drift apart. However, few years later, destiny brings them face to face at a friend's wedding.",
+			"Movieimg": "https://i.ytimg.com/vi/IMCDispQSTI/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "6bD5FjOtK7I",
+			"Movie_name": "Kee",
+			"Geners":"Science Fiction, Crime",
+			"Description": "Siddharth is a hacker who is blessed with a happy family life, which includes his father Ganeshwara Rao and mother Valli. An unexpected incident which happens in his life leads him to another hacker named Shivam.",
+			"Movieimg": "https://i.ytimg.com/vi/6bD5FjOtK7I/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "PXd8Uio4TSs",
+			"Movie_name": "Dwaraka",
+			"Geners":"Drama Romance",
+			"Description": "The story is about a thief Erra Srinu who turns into a fake Baba due to circumstances, how is his image exploited, his love story with Vasudha and his fight with a rationalist Chaitanya and how he comes clean forms the rest of the story.",
+			"Movieimg": "https://i.ytimg.com/vi/PXd8Uio4TSs/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "X56YoyQwog8",
+			"Movie_name": "Raw Khiladi 3",
+			"Geners":"Romance, Drama",
+			"Description": "Shankar is an orphan raised by a sincere police officer named Rajarao. His son Bharath accidentally kills a kid, and Shankar takes the blame on him. Shankar is imprisoned, and Rajarao warns him not to meet him again.",
+			"Movieimg": "https://i.ytimg.com/vi/X56YoyQwog8/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "I3o-UeFZFKo",
+			"Movie_name": "Fidaa",
+			"Geners":"Drama, Romance",
+			"Description": "Varun, an NRI medical student, and a vivacious Bhanu fall in love with each other, but their personal differences create complications.",
+			"Movieimg": "https://i.ytimg.com/vi/I3o-UeFZFKo/mqdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "4ZawRcyAIso",
+			"Movie_name": "Alluri",
+			"Geners":"Action, Crime",
+			"Description": "The film starts on a promising note, with all the departments coming together well, especially Sri Vishnu’s characterisation as a young police officer. Despite solid performances, the film goes downhill after the interval with more conflicts to resolve, routine setting in; and its overarching timeline is its nemesis.",
+			"Movieimg": "https://i.ytimg.com/vi/4ZawRcyAIso/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "9WyhrUWxEf8",
+			"Movie_name": "Dhamaka Khiladi",
+			"Geners":"Action, Comedy",
+			"Description": "Ravi Teja an orphan raised in an orphanage in Bangalore belonging to Ananda Bhupathi. Ananda gets killed by his own son Aditya Bhupathi, who later becomes the Home Minister.",
+			"Movieimg": "https://i.ytimg.com/vi/9WyhrUWxEf8/maxresdefault.jpg"
+		}
+	],
+	"Hollywood Movie":[
+		{
+			"id": 1,
+			"Video_Id": "8WwLPep9xNg",
+			"Movie_name": "The Man Who Knew Infinity",
+			"Geners":"Drama",
+			"Description": "At the turn of the twentieth century, Srinivasa Ramanujan is a struggling and indigent citizen in the city of Madras in India working at menial jobs at the edge of poverty.",
+			"Movieimg": "https://i.ytimg.com/vi/8WwLPep9xNg/mqdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "g0q6v7mXoJw",
+			"Movie_name": "Hacker",
+			"Geners":"Crime Film, Thriller",
+			"Description": "The teenage girl witnessed the arrest of her father. As an adult, she become a hacker and assisted in national security. While on task she discovered assassination of a congressman.",
+			"Movieimg": "https://i.ytimg.com/vi/g0q6v7mXoJw/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "RF3fk5Ys_KQ",
+			"Movie_name": "Switched",
+			"Geners":"Comedy Drama, Family",
+			"Description": "Tired of being bullied, Cassandra Evans prays that her nemesis, Katie Sharp, the queen bee of social media, would know what it's like to walk a day in her shoes. Her prayer is answered in an unexpected way when they get Switched.",
+			"Movieimg": "https://switchedmovie.com/wp-content/uploads/2020/08/switched-shareable.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "wYXc33R7HsM",
+			"Movie_name": "Daughter of the Wolf",
+			"Geners":"Action Thriller",
+			"Description": "Clair Hamilton is a military veteran whose son Charlie has been kidnapped. She brings a bag of money as ransom for Charlie but at the exchange she is double-crossed by the kidnappers, leading to a shootout.",
+			"Movieimg": "https://i.ytimg.com/vi/wYXc33R7HsM/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "UkMLQOMEIew",
+			"Movie_name": "World War 4",
+			"Geners":"Action War",
+			"Description": "A series of escalating incidents in Korea and the Middle East leads to greater conflict, placing the superpowers at one another's throats, and one family is caught up in the ever-growing conflict.",
+			"Movieimg": "https://i.ytimg.com/vi/UkMLQOMEIew/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "kJ5lSvBx_oE",
+			"Movie_name": "King Kong",
+			"Geners":"Action Adventure, Monster",
+			"Description": "King Kong is a 2005 epic adventure monster film co-written, produced, and directed by Peter Jackson. It is the 8th entry in the King Kong franchise and the second remake of the 1933 film of the same title following the 1976 film.",
+			"Movieimg": "https://i.ytimg.com/vi/kJ5lSvBx_oE/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "EHDQwDsfL4E",
+			"Movie_name": "Bull Shark",
+			"Geners":"Action Horror",
+			"Description": "Bull Shark is a 2022 American action horror film about a shark feeding on unsuspecting lake goers in a small Texas town. Also known as Blood in the Water.",
+			"Movieimg": "https://i.ytimg.com/vi/EHDQwDsfL4E/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "vCzjyLK0G40",
+			"Movie_name": "Chinese Zodiac",
+			"Geners":"Actoin Comedy, Adventure",
+			"Description": "The movie begins with the story of the Old Summer Palace and its looting and destruction by British and French soldiers in the Second Opium War. Among the artifacts looted are twelve bronze heads of the animals of the Chinese zodiac.",
+			"Movieimg": "https://thumbor.prod.vidiocdn.com/wkOiESG-P4beFwBY_AcfkP8Eu4g=/filters:quality(70)/vidio-web-prod-video/uploads/video/image/7037615/chinese-zodiac-64f73c.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "Bv6A16vBH_0",
+			"Movie_name": "Lost Fare",
+			"Geners":"Drama, Action",
+			"Description": "A 11 year old disabled girl, routinely pimped out by her prostitute mother, is saved by a suicidal cab driver. Together they go on a journey of redemption that forever changes their lives.",
+			"Movieimg": "https://i.ytimg.com/vi/Bv6A16vBH_0/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "hkt9Znn9Gbw",
+			"Movie_name": "American Backwoods Slew Hampshire",
+			"Geners":"Horror Comedy, Drama",
+			"Description": "In June of 1994, one of the most brutal mass slaughters in history occurred in the backwoods of northern New England. Four months later, history is about to repeat itself.",
+			"Movieimg": "https://i.ytimg.com/vi/hkt9Znn9Gbw/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "PrVI2p19euI",
+			"Movie_name": "BERMUDA TENTACLES",
+			"Geners":"Action Thriller, Fantasy",
+			"Description": "Bermuda Tentacles is an American made-for-television science fiction horror film directed by Nick Lyon. It starred Linda Hamilton and featured ensemble cast of Trevor Donovan, Mýa, John Savage and Jamie Kennedy.",
+			"Movieimg": "https://i.ytimg.com/vi/PrVI2p19euI/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "ku8-F4aR9bM",
+			"Movie_name": "New World Order",
+			"Geners":"Drama",
+			"Description": "The end has come, and a New World Order has arisen. Demi and Christen find themselves living in the apocalyptic era, foretold in the Holy Bible. Now three years already, since the inception of the New World Order.",
+			"Movieimg": "https://i.ytimg.com/vi/ku8-F4aR9bM/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "LRkRWP8xh2M",
+			"Movie_name": "Silver Wolf",
+			"Geners":"Adveture Drama, Family",
+			"Description": "A ranger (Michael Biehn) and his 16-year-old nephew (Shane Meier) struggle to save a wolf from a rancher (Roy Scheider), who is out to kill it.",
+			"Movieimg": "https://i.ytimg.com/vi/LRkRWP8xh2M/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "0WDzQaixPZ0",
+			"Movie_name": "Second Chances",
+			"Geners":"Children's film, Drama",
+			"Description": "Second Chances is a 1998 film directed by James Fargo.It stars Tom Amandes, former A Little Princess star Kelsey Mulrooney, Isabel Glasser, and The Nanny's Charles Shaughnessy and Madeline Zima.Second Chances is based on a true story.",
+			"Movieimg": "https://i.ytimg.com/vi/0WDzQaixPZ0/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "g0LCdlq-BK0",
+			"Movie_name": "Wild Faith",
+			"Geners":"Historical Fiction",
+			"Description": "\"Wild Faith\" is a Michigan production, and not just because of the locations. The cast and crew are all Michiganders, many from Lansing. Michigan history also played its part. A circus train crash that happens early on in the movie was inspired by an actual circus train crash in 1903 in Durand.",
+			"Movieimg": "https://i.ytimg.com/vi/g0LCdlq-BK0/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "sWfgTiJ3sCs",
+			"Movie_name": "The Secret Garden",
+			"Geners":"Fantasy, Drama",
+			"Description": "The Secret Garden is a 2020 British fantasy drama film based on the 1911 novel of the same name by Frances Hodgson Burnett, the fourth film adaptation of the novel. Directed by Marc Munden and produced by David Heyman, it stars Dixie Egerickx, Colin Firth, and Julie Walters.",
+			"Movieimg": "https://i.ytimg.com/vi/sWfgTiJ3sCs/maxresdefault.jpg"
+		}
+	],
+	"Gujarati Movie":[
+		{
+			"id": 1,
+			"Video_Id": "OhNuXFn9Tu0",
+			"Movie_name": "Love Ni Bhavai",
+			"Geners":"Drama, Romance",
+			"Description": "Love Ni Bhavai is a 2017 Gujarati romantic drama film directed by Saandeep Patel and produced by Aarti Patel. The background score and soundtrack was composed by Sachin–Jigar, with lyrics from Niren Bhatt.",
+			"Movieimg": "https://i.ytimg.com/vi/5gIpqS-Qpzw/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "jar8cDhiw-M",
+			"Movie_name": "Tamburo",
+			"Geners":"Comedy Film",
+			"Description": "Tamburo is an Indian Gujarati comedy film directed by Shailesh Shankar. It stars Bollywood veteran actor Manoj Joshi, and Pratik Gandhi, with Bharat Chawda.",
+			"Movieimg": "https://i.ytimg.com/vi/jar8cDhiw-M/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "rJHsafM32Bk",
+			"Movie_name": "Chhello Divas",
+			"Geners":"Comedy",
+			"Description": "Chhello Divas – A New Beginning is a Gujarati coming of age comedy film, written and directed by Krishnadev Yagnik. The movie stars Malhar Thakar, Yash Soni, Mitra Gadhavi, Aarjav Trivedi, Rahul Raval, Janki Bodiwala, Kinjal Rajpriya, and Netri Trivedi.",
+			"Movieimg": "https://i.ytimg.com/vi/JMa1SvS2qd0/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "AVc9MsVDG-Q",
+			"Movie_name": "Gujjubhai Most Wanted",
+			"Geners":"Comedy, Drama",
+			"Description": "GujjuBhai - Most Wanted is a 2018 Indian Gujarati comedy film directed by Ishaan Randeria. This is the second film in Gujjubhai film series and sequel to Gujjubhai the Great (2015). It stars Siddharth Randeria and Jimit Trivedi in the lead roles.",
+			"Movieimg": "https://i.ytimg.com/vi/AVc9MsVDG-Q/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "-y_lO028ChA",
+			"Movie_name": "Saheb",
+			"Geners":"Drama",
+			"Description": "Saheb is a 2019 Gujarati film starring Malhar Thakar & Kinjal Rajpriya. The film is directed by Shailesh Prajapati and written by Paresh Vyas.The film was released on 8 February 2019.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BN2U3Yzk2MTItZjM5YS00ZTg5LTljZWUtZjVhZjk4NTM3YzEwXkEyXkFqcGdeQXVyOTY0ODY3NTc@._V1_.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "yMqnmPbWi1s",
+			"Movie_name": "Gujjubhai The Great",
+			"Geners":"Comedy Drama",
+			"Description": "Gujjubhai The Great is a 2020 Gujarati comedy film directed by Ishaan Randeria. It is presented by Nakshatra Entertainment and produced by Devendra N. Patel in association with Siddharth Randeria Productions.",
+			"Movieimg": "https://i.ytimg.com/vi/WdYZXEzi_0s/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "KQo2QQw1KaY",
+			"Movie_name": "Karsandas Pay and Use",
+			"Geners":"Romance Comedy",
+			"Description": "Karsandas Pay & Use is a 2017 Indian Gujarati-language romantic comedy film written and directed by Krishnadev Yagnik and produced by Nilay Chotai and Vaishal Shah. The film stars Mayur Chauhan, Deeksha Joshi and Hemang Shah in lead roles and was released on 19 May 2017.",
+			"Movieimg": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-0-66562/list/karsandaspayanduse1170x65.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "CFdNaAJuwTY",
+			"Movie_name": "Passport",
+			"Geners":"Drama",
+			"Description": "Anna, an American student loses in her passport in Ahmedabad and Kabir (Malhar Thakar), helps her find it.",
+			"Movieimg": "https://i.ytimg.com/vi/CFdNaAJuwTY/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "QGeY9Y5zg2Q",
+			"Movie_name": "Vandha Villas",
+			"Geners":"Comedy",
+			"Description": "Fortunately or unfortunately Dhyanchand, Harinanrayan and Lakhudas are cursed by one of their ancestors that the coming six generations will have to marry two times and if they don't, they will take birth as monkeys in their next lives.",
+			"Movieimg": "https://i.ytimg.com/vi/QGeY9Y5zg2Q/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "Ze4yaU_dorc",
+			"Movie_name": "Back Bencher",
+			"Geners":"Drama",
+			"Description": "Gopal, a slow learner, is pressurised by his mother to keep up with his fellow students. Finally, he breaks down and escapes from his home after he is unable to take the pressure of failing.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMGE5MGQyZjUtZDJjMS00OTc2LThmNTItMTQ4ZDA1YmM2YjQ0XkEyXkFqcGdeQXVyOTUxMDI3MzY@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "3fyphrZ-yUc",
+			"Movie_name": "Chal Man Jeetva Jaiye",
+			"Geners":"Drama",
+			"Description": "Chal Man Jeetva Jaiye recounts the riveting saga of a business family which finds itself at the crossroads, where one wrong decision could end up costing them everything.",
+			"Movieimg": "https://i.ytimg.com/vi/3fyphrZ-yUc/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "tZrliJEezY0",
+			"Movie_name": "Happy Familyy Pvt Ltd",
+			"Geners":"Comedy, Drama",
+			"Description": "Happy Familyy Pvt Ltd is a comedy feature film which revolves around the story of a rich and happy family which is forced to leave behind the lifestyle of Mumbai and settle in a village.",
+			"Movieimg": "https://i.ytimg.com/vi/tZrliJEezY0/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "NgdU-uxo9Ys",
+			"Movie_name": "Short Circuit",
+			"Geners":"Science Fiction, Comedy",
+			"Description": "Short Circuit is a Gujarati movie about Samay, who falls in love with Seema, a TV anchor. Seema interviews a scientist and discovers his dangerous experiments.",
+			"Movieimg": "https://i.ytimg.com/vi/NgdU-uxo9Ys/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "EkaX-Vd77Bw",
+			"Movie_name": "Mijaaj",
+			"Geners":"Action Drama, Crime",
+			"Description": "Three friends join hands to fight a local goon to save a lodge from being sold off, but will they succeed in their mission?",
+			"Movieimg": "https://i.ytimg.com/vi/EkaX-Vd77Bw/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "nMAOJFbn0kI",
+			"Movie_name": "Reva",
+			"Geners":"Adveture, Drama",
+			"Description": "Reva: A Journey Within is a 2018 Gujarati adventure drama film starring Chetan Dhanani and Monal Gajjar produced by Brainbox Studios and Baroda Talkies. The film is based on Gujarati author Dhruv Bhatt's 1998 Gujarati novel Tatvamasi.",
+			"Movieimg": "https://qqcdnpictest.mxplay.com/pic/2e61a950a9e3368e8500a02a7ba26585/en/16x9/1920x1080/test_pic1565261494204.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "ZSNi9ThAA_Q",
+			"Movie_name": "Duniyadari",
+			"Geners":"Drama",
+			"Description": "Duniyadari is a 2017 Gujarati movie a remake of Marathi movie Duniyadari produced by Tajdar Amrohi and Riyaz Balooch and directed by Shital Shah. Duniyadari is a story of love, friendship, relationship and destiny based in the period of mid 70s.",
+			"Movieimg": "https://i.ytimg.com/vi/ZSNi9ThAA_Q/maxresdefault.jpg"
+		}
+	],
+	"Drama Movie":[
+		{
+			"id": 1,
+			"Video_Id": "sr-VQkpgV4k",
+			"Movie_name": "Scam 1992",
+			"Geners":"Drama, Biography",
+			"Description": "Set in 1980s and '90s Bombay, it follows the life of Harshad Mehta, a stockbroker who took the stock market to dizzying heights and his catastrophic downfall.",
+			"Movieimg": "https://i.ytimg.com/vi/sr-VQkpgV4k/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "VgGgYOzNWno",
+			"Movie_name": "Ram Setu",
+			"Geners":"Action Adventure, Drama",
+			"Description": "Ram Setu is a 2022 Indian Hindi-language action-adventure film directed by Abhishek Sharma. The film stars Akshay Kumar, Jacqueline Fernandez, Nushrratt Bharuccha and Satya Dev and follows an archeologist who is investigating the nature of Rama Setu, also known as Adam's Bridge.",
+			"Movieimg": "https://i.ytimg.com/vi/VgGgYOzNWno/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "mMiRRcVhgzM",
+			"Movie_name": "Doctor G",
+			"Geners":"Drama Comedy",
+			"Description": "Doctor G is a 2022 Indian Hindi-language comedy-drama film directed by Anubhuti Kashyap and produced by Junglee Pictures. It stars Ayushmann Khurrana, Rakul Preet Singh and Shefali Shah.",
+			"Movieimg": "https://i.ytimg.com/vi/mMiRRcVhgzM/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "Gy9QUrvnsPk",
+			"Movie_name": "Dangal",
+			"Geners":"Action Sports, Drama",
+			"Description": "Dangal is a 2016 Indian Hindi-language biographical sports drama film directed by Nitesh Tiwari and produced by Aamir Khan and Kiran Rao under Aamir Khan Productions with Siddharth Roy Kapur under The Walt Disney Company India.",
+			"Movieimg": "https://imageio.forbes.com/blogs-images/robcain/files/2017/05/Dangal-Hindi-poster.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "s_KN1asDGC4",
+			"Movie_name": "Mimi",
+			"Geners":"Comedy Drama",
+			"Description": "Mimi is a 2021 Indian Hindi-language comedy-drama film directed by Laxman Utekar and produced by Dinesh Vijan under Maddock Films. A remake of the 2011 Marathi film Mala Aai Vhhaychy!",
+			"Movieimg": "https://i.ytimg.com/vi/1Ozf8qqYI-w/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "PXd8Uio4TSs",
+			"Movie_name": "Dwaraka",
+			"Geners":"Drama Romance",
+			"Description": "The story is about a thief Erra Srinu who turns into a fake Baba due to circumstances, how is his image exploited, his love story with Vasudha and his fight with a rationalist Chaitanya and how he comes clean forms the rest of the story.",
+			"Movieimg": "https://i.ytimg.com/vi/PXd8Uio4TSs/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "JAdvqR-lHIU",
+			"Movie_name": "The Return of Rebel",
+			"Geners":"Action Romance, Drama Comedy",
+			"Description": "Rishi (Prabhas) is the happy-go-lucky son of Bhupathi (Krishnam Raju), a powerful dictator of the village, who is liked by the villagers. Rishi is influenced by his father's ideals and grows up just like him.",
+			"Movieimg": "https://i.ytimg.com/vi/wgEbe30ilUQ/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "Z-OzON9uiN8",
+			"Movie_name": "Khoobsurat",
+			"Geners":"Romance Comedy, Drama",
+			"Description": "Khoobsurat is a 2014 Indian Hindi-language romantic comedy-drama film.[The film is directed by Shashanka Ghosh and produced by Rhea Kapoor, Anil Kapoor and Siddharth Roy Kapur.It stars Sonam Kapoor, Fawad Khan, Kirron Kher, Ratna Pathak and Aamir Raza Hussain.",
+			"Movieimg": "https://i.ytimg.com/vi/Z-OzON9uiN8/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "RFA3ruwfLYI",
+			"Movie_name": "The Warriorr",
+			"Geners":"Action, Drama",
+			"Description": "The Warriorr is a 2022 Indian action film directed by N. Lingusamy and produced by Srinivasa Silver Screen. It is shot simultaneously in Telugu and Tamil languages. The film stars Ram Pothineni, Aadhi Pinisetty, Krithi Shetty, Akshara Gowda, and Nadhiya. The film score is composed by Devi Sri Prasad.",
+			"Movieimg": "https://i.ytimg.com/vi/RFA3ruwfLYI/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "QowFdS25XnE",
+			"Movie_name": "Kaabil",
+			"Geners":"Action Romance, Thriller",
+			"Description": "Kaabil is a 2017 Indian Hindi-language romantic action thriller film directed by Sanjay Gupta, written by Vijay Kumar Mishra, produced by Rakesh Roshan under his banner FilmKraft Productions.",
+			"Movieimg": "https://i.ytimg.com/vi/QowFdS25XnE/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "SbSTTfnEMZM",
+			"Movie_name": "Miss India",
+			"Geners":"Drama",
+			"Description": "Manasa Samyuktha, a woman with big goals from a middle class family, moves to the USA. She dreams of starting up her own tea business. On the way to becoming a successful businesswoman.",
+			"Movieimg": "https://i.ytimg.com/vi/FnzSrvaFq_0/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "4qDwj4S8bE8",
+			"Movie_name": "Barfi",
+			"Geners":"Comedy Drama, Romance",
+			"Description": "Barfi! is a 2012 Indian Hindi-language romantic comedy-drama film directed by Anurag Basu and produced by Ronnie Screwvala and Siddharth Roy Kapur under UTV Motion Pictures.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BMTQzMTEyODY2Ml5BMl5BanBnXkFtZTgwMjA0MDUyMjE@._V1_FMjpg_UX1000_.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "hXk3pP0q-MU",
+			"Movie_name": "Khiladi 786",
+			"Geners":"Comedy, Drama",
+			"Description": "Khiladi 786 is a 2012 Indian Hindi-language action comedy film directed by Ashish R Mohan, featuring Akshay Kumar in the title role alongside Asin playing the female lead.",
+			"Movieimg": "https://i.ytimg.com/vi/hXk3pP0q-MU/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "VNQ0C4kJ9oU",
+			"Movie_name": "Naani Maa",
+			"Geners":"Comedy, Drama",
+			"Description": "Santosh decides to keep his grandmother Sita Mahalakshmi happy at any cost because she helped him in a game of hide and seek during his childhood.",
+			"Movieimg": "https://i.ytimg.com/vi/VNQ0C4kJ9oU/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "kgj6kc_hpFE",
+			"Movie_name": "Premam",
+			"Geners":"Comedy, Drama",
+			"Description": "Down on luck and depressed by constant failures in personal and professional life, Vijay is desperately in search of that single stroke of fortune that could turn his life around. But what if the power to rewrite his destiny lies within?",
+			"Movieimg": "https://i.ytimg.com/vi/5vhPjeurvOg/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "c80XVX4ckdQ",
+			"Movie_name": "Mahanati",
+			"Geners":"Biographical Drama",
+			"Description": "Mahanati is a film about the rise of the first female south Indian superstar - Savitri. Her story one of the most heart wrenching romantic tragedies of our times.",
+			"Movieimg": "https://i.ytimg.com/vi/c80XVX4ckdQ/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "yJulSR_AsNY",
+			"Movie_name": "Maha",
+			"Geners":"Crime Thriller",
+			"Description": "The film begins with Maha complaining to her boyfriend, Malik about some men harassing her. Those men pull up in front of them causing Malik to fight them.",
+			"Movieimg": "https://i.ytimg.com/vi/yJulSR_AsNY/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "AB1bd6_LPAU",
+			"Movie_name": "A Aa 3",
+			"Geners":"Romance,Comedy",
+			"Description": "A Aa revolves around the lives of 23-year-old Anasuya Ramalingam and Anand Vihari and their families.",
+			"Movieimg": "https://i.ytimg.com/vi/AB1bd6_LPAU/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "x51al09uZEc",
+			"Movie_name": "Ntr 31",
+			"Geners":"Action, Drama",
+			"Description": "NTR 31 is a high voltage action entertainer movie directed by Prashanth Neel. The movie casts Jr NTR and many others are in the lead roles.",
+			"Movieimg": "https://i.ytimg.com/vi/x51al09uZEc/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "8FmQsZQ7tsA",
+			"Movie_name": "Dharala Prabhu",
+			"Geners":"Romance, Comedy, Drama",
+			"Description": "Prabhu's life turns upside down when he is approached by Dr Kannadasan, the owner of a fertility clinic, to become a sperm donor and he agrees to it.",
+			"Movieimg": "https://i.ytimg.com/vi/8FmQsZQ7tsA/maxresdefault.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "wdiuQiFnWME",
+			"Movie_name": "Gangster Ganesh",
+			"Geners":"Action, Comedy, Drama",
+			"Description": "A film-maker aspires to make a gangster movie and selects the hardened Gaddalakonda Ganesh as his subject. Soon, he and his friend put their lives on the line to follow Gaddalakonda's life.",
+			"Movieimg": "https://i.ytimg.com/vi/wdiuQiFnWME/maxresdefault.jpg"
+		},
+		{
+			"id": 22,
+			"Video_Id": "MALpyJkJIjg",
+			"Movie_name": "James",
+			"Geners":"Thriller,Drama",
+			"Description": "The crime syndicate which is operating in Bangalore is divided into three groups namely the Golden Horse syndicate owned by Joseph Anthony who is driving from Miami",
+			"Movieimg": "https://i.ytimg.com/vi/MALpyJkJIjg/maxresdefault.jpg"
+		}
+	],
+	"Romance Movie":[
+		{
+			"id": 1,
+			"Video_Id": "ei03nLe0EGo",
+			"Movie_name": "Tu Jhoothi Main Makkaar",
+			"Geners":"Romance, Comedy",
+			"Description": "To earn extra cash, Mickey helps couples break up. However, life gets complicated when he falls for Tinni, a career woman with an independent streak.",
+			"Movieimg": "https://i.ytimg.com/vi/gQRqe1nIZEM/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "NsJuAaBhHLE",
+			"Movie_name": "Kedarnath",
+			"Geners":"Romance Adventure, Drama",
+			"Description": "Kedarnath is a 2018 Indian Hindi-language romantic disaster film written and directed by Abhishek Kapoor.Featuring Sushant Singh Rajput and newcomer Sara Ali Khan in lead roles, it tells an inter-faith love story between a wealthy Hindu Brahmin girl whose family owns a lodge and shops near the historic Kedarnath Temple in the Uttarakhand mountains and a Muslim boy who is a 'pithoo' (porter) working in the same vicinity.",
+			"Movieimg": "https://i.ytimg.com/vi/ejlffMqcumc/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "gTnB6H-NQWk",
+			"Movie_name": "Kabir Singh",
+			"Geners":"Romance Drama, Action",
+			"Description": "Kabir Singh is a 2019 Indian Hindi-language romantic drama film written and directed by Sandeep Reddy Vanga and jointly produced by Bhushan Kumar and Krishan Kumar under T-Series Films and Murad Khetani and Ashwin Varde under Cine1 Studios.",
+			"Movieimg": "https://www.meinstyn.com/wp-content/uploads/2020/04/Kabir-Singh-Movie-Dialogues-Full-HD-Poster-Desktop-Wallpaper.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "B6h-kQLQqec",
+			"Movie_name": "Sarrainodu",
+			"Geners":"Romance Action, Drama",
+			"Description": "The movie story deals with Gana, whose job is moral policing. Though his treatment involves violence, he stands by the justice. One fine day, he helps an entire village and also saves Maha Lakshmi without knowing that she is under a threat from the very powerful Dhanush.",
+			"Movieimg": "https://i.ytimg.com/vi/gPjWnQzsx40/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "TDz6U2isLwE",
+			"Movie_name": "Twilight 2",
+			"Geners":"Romance Adventure, Melodrama",
+			"Description": "The Twilight Saga: New Moon is a 2009 American romantic fantasy film directed by Chris Weitz from a screenplay by Melissa Rosenberg, based on the 2006 novel New Moon by Stephenie Meyer.",
+			"Movieimg": "https://i.ytimg.com/vi/0UwBktu6l2M/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "TfQfai0qsCw",
+			"Movie_name": "Dil Dhadak Dhadak",
+			"Geners":"Romance Action, Drama",
+			"Description": "Surya, a rebellious youngster, falls for Vaishali but refuses to marry her due to his past experiences. She, however, is confident of her love and promises to meet him exactly after one year.",
+			"Movieimg": "https://i.ytimg.com/vi/gwVsw8cLcX0/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "a17YqU73tLs",
+			"Movie_name": "Aitraaz",
+			"Geners":"Romance Drama, Thriller",
+			"Description": "Aitraaz is a 2004 Indian Hindi-language romantic thriller film directed by Abbas–Mustan and produced by Subhash Ghai. It stars Akshay Kumar, Priyanka Chopra, Kareena Kapoor, Amrish Puri, Annu Kapoor and Paresh Rawal.",
+			"Movieimg": "https://i.ytimg.com/vi/a17YqU73tLs/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "yklDT_Km15E",
+			"Movie_name": "Love Story",
+			"Geners":"Romance, Drama",
+			"Description": "The film tells the story of an inter-caste relationship between Revanth (Chaitanya) and Mounika (Pallavi) who meet in the city while pursuing their dreams.",
+			"Movieimg": "https://i.ytimg.com/vi/yklDT_Km15E/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "1lFk1LSsI_c",
+			"Movie_name": "Jaya Janaki Nayaka KHOONKHAR",
+			"Geners":"Action Romance",
+			"Description": "Gagan and Sweety fall in love but are forced to break up because her father disapproves of him. While defending a family from thugs one day, Gagan unknowingly saves Sweety and vows to protect her.",
+			"Movieimg": "https://i.ytimg.com/vi/1lFk1LSsI_c/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "R7aCOI4DuA0",
+			"Movie_name": "A Aa",
+			"Geners":"Romantic, Comedy",
+			"Description": "Anasuya (Samantha) is a docile young woman who wants to break free from the clutches of her control-freak mom (Nadiya). While her mom is gone on a business trip, Anasuya sneaks up to the village of her maternal uncle. Vihari (Nithin) is Anasuya’s brother-in-law and he hosts her.",
+			"Movieimg": "https://i.ytimg.com/vi/R7aCOI4DuA0/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "fCE_IwP742Q",
+			"Movie_name": "Chirutha",
+			"Geners":"Romance Drama, Action",
+			"Description": "The consequences that follow after the love between hero and heroine, when they accidentally fall in love on an island.",
+			"Movieimg": "https://i.ytimg.com/vi/fCE_IwP742Q/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "53mSSI9qlHc",
+			"Movie_name": "Aashiqui 2",
+			"Geners":"Romance, Drama",
+			"Description": "Aashiqui 2 is a 2013 Indian Hindi-language romantic musical drama film directed by Mohit Suri and produced by Mukesh Bhatt.",
+			"Movieimg": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/04/26/Pictures/_37e8e594-87a6-11ea-81b1-a01beea4c212.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "vkuiI430d_0",
+			"Movie_name": "The Super Khiladi 3",
+			"Geners":"Romantic Comedy",
+			"Description": "Hari, a young DJ, keeps getting rejected by every girl he proposes to. When he faces another brutal rejection by Sailaja, a girl he truly loves, he sets out to change her mind.",
+			"Movieimg": "https://i.ytimg.com/vi/vkuiI430d_0/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "VvyFjuFrOr4",
+			"Movie_name": "LIE",
+			"Geners":"Action, Thriller",
+			"Description": "Sathyam and Chaitra meet unexpectedly and decide to only lie to each other. Soon, after they fall in love, Sathyam encounters Padmanabham, a criminal on the run from the Indian police.",
+			"Movieimg": "https://i.ytimg.com/vi/sXAwqoJ-WUA/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "_bpVUHH3fG8",
+			"Movie_name": "Kahani Kismat Ki",
+			"Geners":"Action Thriller",
+			"Description": "When his upcoming marriage to his girlfriend gets cancelled, Ramesh feels down in the dumps and drowns his sorrows in alcohol. In his intoxicated state, the IT expert agrees to his friend's suggestion to forget about his ex by spending a night with a call girl.",
+			"Movieimg": "https://i.ytimg.com/vi/D38aJh-EIU4/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "IVH8JEL2P-Q",
+			"Movie_name": "Lafange Deewane",
+			"Geners":"Romantic, Comedy",
+			"Description": "The movie story deals with Vasu and Saravanan both are best friends since childhood. However, their friendship is put to a test when they fall in love with Seema and Aishwarya, respectively.",
+			"Movieimg": "https://i.ytimg.com/vi/nBxo-nTTgJ8/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "scqRaw2Qo_4",
+			"Movie_name": "Meri Dhadkan",
+			"Geners":"Action, Romance",
+			"Description": "Ram, an IT engineer, suffers depression after his girlfriend Charu leaves him. Situations turn tricky when his CEO's US-returned daughter, Lata claims to be the girl who left him rather than Charu.",
+			"Movieimg": "https://i.ytimg.com/vi/scqRaw2Qo_4/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "ty5yjALDNFU",
+			"Movie_name": "Mili",
+			"Geners":"Survival Thriller",
+			"Description": "Mili Naudiyal is a B.Sc Nursing graduate and attends IELTS coaching classes intended for a job abroad. She works part-time at a restaurant named Doon's Kitchen, located within a plush mall.",
+			"Movieimg": "https://i.ytimg.com/vi/ty5yjALDNFU/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "nSt2L5jzlyA",
+			"Movie_name": "Hi-Tech Hacker",
+			"Geners":"Action, Drama",
+			"Description": "An undercover RAW agent searching for a group of hackers who stole important data from social network, emergency sector, telecom and banking sectors; RAW agent faces many problems to catch the hackers.",
+			"Movieimg": "https://i.ytimg.com/vi/nSt2L5jzlyA/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "zaDZgeYjonY",
+			"Movie_name": "Hyper 2",
+			"Geners":"Action, Romance, Comedy",
+			"Description": "Seenu starts hunting for a girl after his astrologer advises him to get married within three months. He falls in love with Maha and wins her heart but his parents fix his marriage with Akhila.",
+			"Movieimg": "https://i.ytimg.com/vi/zaDZgeYjonY/maxresdefault.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "EOmj5RTcTRE",
+			"Movie_name": "Sixer",
+			"Geners":"Romantic, Comedy, Drama",
+			"Description": "The aftermath of not being able to get home by 6 p.m. leads a nyctalopic man to the woman of his dreams. Now, he can only hope that her love is night-blind, as he makes ridiculous attempts to cover up his condition while courting her.",
+			"Movieimg": "https://i.ytimg.com/vi/EOmj5RTcTRE/maxresdefault.jpg"
+		},
+		{
+			"id": 22,
+			"Video_Id": "5Y87gFvzEO4",
+			"Movie_name": "VASCO THE REBEL",
+			"Geners":"Romantic, Action",
+			"Description": "Vasco da Gama son of a cop is a street smart ruffian who chooses crime to earn a fortune and fulfill his grandma Mary’s dream after watching his parents death.",
+			"Movieimg": "https://i.ytimg.com/vi/5Y87gFvzEO4/maxresdefault.jpg"
+		},
+		{
+			"id": 23,
+			"Video_Id": "Aix_cBFP7jM",
+			"Movie_name": "Jaanu",
+			"Geners":"Romance, Drama",
+			"Description": "The film revolves around the reunion of former students from a 2004 batch class fifteen years after their graduation.",
+			"Movieimg": "https://i.ytimg.com/vi/Aix_cBFP7jM/maxresdefault.jpg"
+		}
+	],
+	"Comedy Movie":[
+		{
+			"id": 1,
+			"Video_Id": "2wDn7d2PKiE",
+			"Movie_name": "Shehzada",
+			"Geners":"Comedy",
+			"Description": "Valmiki and Randeep start their career as clerks in the company of Aditya Jindal. Randeep, who marries Jindal's daughter Yasoda \"Yasu\", becomes wealthy while Valmiki remains poor.",
+			"Movieimg": "https://img.jagrantv.com/article/rc1038709/1676362538-untitled-design--13-.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "YT9R4Ub0ZJ4",
+			"Movie_name": "Cirkus",
+			"Geners":"Comedy, Drama",
+			"Description": "Chaos reigns due to a case of mistaken identity when two sets of twins who were separated at birth coincidentally visit the same city.",
+			"Movieimg": "https://i.ytimg.com/vi/EkzD0d0yFdM/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "juPq9P3Kfww",
+			"Movie_name": "Judwa 2",
+			"Geners":"Comedy",
+			"Description": "Raja and Prem, twins separated at birth but connected through reflexes, join forces as adults to take down an underground smuggling kingpin who threatens to destroy their family.",
+			"Movieimg": "https://i.ytimg.com/vi/DDwbjWCgxVM/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "XaXKh-s9zws",
+			"Movie_name": "Golmaal 3",
+			"Geners":"Comedy Drama, Action",
+			"Description": "Golmaal 3 is a 2010 Indian Hindi-language action comedy film directed by Rohit Shetty. A sequel to the 2008 film Golmaal Returns and the third film in the Golmaal series.",
+			"Movieimg": "https://i.ytimg.com/vi/XaXKh-s9zws/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "-8VN1Usk78A",
+			"Movie_name": "Kis Kisko Pyaar Karoon",
+			"Geners":"Romantic Comedy",
+			"Description": "Kis Kisko Pyaar Karoon is a 2015 Indian Hindi-language comedy film directed by Abbas Mustan. The film garnered controversy over keeping names on Hindus gods. Stand-up comedian Kapil Sharma made his Bollywood debut with this movie, as did actress Sai Lokur and supporting actress Jamie Lever.",
+			"Movieimg": "https://i.ytimg.com/vi/-8VN1Usk78A/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "QbYSL-HWlh4",
+			"Movie_name": "Housefull 3",
+			"Geners":"Action Comedy, Drama",
+			"Description": "Housefull 3 is a 2016 Indian Hindi-language action comedy film co-written and directed by Sajid-Farhad and produced by Sajid Nadiadwala under the banner Nadiadwala Grandson Entertainment.",
+			"Movieimg": "https://i.ytimg.com/vi/QbYSL-HWlh4/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "oEvHQe6GHmg",
+			"Movie_name": "Judwaa 2",
+			"Geners":"Comedy Action",
+			"Description": "The film stars Varun Dhawan playing twins Raja and Prem opposite Jacqueline Fernandez and Taapsee Pannu. Produced by Nadiadwala Grandson Entertainment, Judwaa 2 was released on 29 September 2017.",
+			"Movieimg": "https://i.ytimg.com/vi/x3UkmGX6HFg/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "smLNCbYNQP4",
+			"Movie_name": "Entertainment",
+			"Geners":"Comedy, Drama",
+			"Description": "Entertainment is a 2014 Indian Hindi-language action comedy film written and directed by popular screenwriter duo Sajid-Farhad and produced by Ramesh S.",
+			"Movieimg": "https://i.ytimg.com/vi/LXXkiUKDK4w/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "TIQ5hrfermg",
+			"Movie_name": "Phir Hera Pheri",
+			"Geners":"Comedy Drama",
+			"Description": "Phir Hera Pheri is a 2006 Indian Hindi-language comedy film co-written and directed by Neeraj Vora. Serving as the sequel to Hera Pheri (2000), it stars Akshay Kumar, Suniel Shetty and Paresh Rawal reprising their roles from the previous film along with Bipasha Basu, Rimi Sen, Johnny Lever and Rajpal Yadav.",
+			"Movieimg": "https://i.ytimg.com/vi/TIQ5hrfermg/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "V1qUme_qCcs",
+			"Movie_name": "Laxmi Bomb",
+			"Geners":"Comedy horror",
+			"Description": "Aasif visits his wife's parents' house and happens to go to a ground that is supposedly haunted. However, he is soon possessed by the spirit of a transgender who is out for revenge.",
+			"Movieimg": "https://samacharnama.com/static/c1e/client/79965/migrated/85a320ddc1f389553004a31a5831d4a0.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "OweJ0eXZCsE",
+			"Movie_name": "F2 Fun & Frustration",
+			"Geners":"Comedy Romance, Drama",
+			"Description": "Two young men hope to control their wives after their respective marriages. However, their chauvinistic attitude often lands them in hilarious situations.",
+			"Movieimg": "https://i.ytimg.com/vi/OweJ0eXZCsE/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "bFyz_i6EUXg",
+			"Movie_name": "Aladin",
+			"Geners":"Fantasy Comedy",
+			"Description": "The film opens with the family of archeologist Arun Chatterjee, who lives with his wife, Riya, and their baby son, Aladin.",
+			"Movieimg": "https://i.ytimg.com/vi/bFyz_i6EUXg/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "0uwm5saKdgA",
+			"Movie_name": "Khichdi The Movie",
+			"Geners":"Comedy, Drama",
+			"Description": "It is the first film by Hats Off Productions and stars Anang Desai, Supriya Pathak, Rajeev Mehta, Nimisha Vakharia and Jamnadas Majethia in the lead roles.",
+			"Movieimg": "https://static.sacnilk.com/articles/entertainment/box_office/1255.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "NgdU-uxo9Ys",
+			"Movie_name": "Short Circuit",
+			"Geners":"Science Fiction, Comedy",
+			"Description": "Short Circuit is a Gujarati movie about Samay, who falls in love with Seema, a TV anchor. Seema interviews a scientist and discovers his dangerous experiments.",
+			"Movieimg": "https://i.ytimg.com/vi/NgdU-uxo9Ys/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "R3YE4ggMtcc",
+			"Movie_name": "Motichoor Chaknachoor",
+			"Geners":"Romance Drama, Comedy",
+			"Description": "The film also stars Vibha Chibber, Navni Parihar, Vivek Mishra, Karuna Pandey, Sanjeev Vats, Abhishek Rawat, Sapna Sand and Usha Nagar in supporting roles.",
+			"Movieimg": "https://images.news18.com/ibnlive/uploads/2019/10/Motichoor-Chaknachoor-Nawazuddin-Athiya.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "saHth7In6yw",
+			"Movie_name": "Thugs Of Amrica",
+			"Geners":"Comedy, Adventure",
+			"Description": "Kedarnath tricks his Guru into taking a group trip to the US to pursue his dream girl, whom he met in India.",
+			"Movieimg": "https://i.ytimg.com/vi/HZ15mba5ps0/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "tPXYWRGNl7s",
+			"Movie_name": "Ready",
+			"Geners":"Comedy, Action",
+			"Description": "Prem helps his friend Khushi elope with her lover Raju. This angers her father Abhinav and the Kapoors. Prem pacifies his family who fix his marriage with a woman, Pooja.",
+			"Movieimg": "https://i.ytimg.com/vi/tPXYWRGNl7s/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "eR1OXdEi4OY",
+			"Movie_name": "Gold Thief",
+			"Geners":"Comedy",
+			"Description": "Bhavani Prasad, a gold appraiser, learns of his grandfather's secret from years ago. As a result, he decides to help him set things right but faces many challenges in his quest.",
+			"Movieimg": "https://i.ytimg.com/vi/eR1OXdEi4OY/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "ywVvSNuqHSY",
+			"Movie_name": "Mirapakay (Khallas)",
+			"Geners":"Action, Comedy",
+			"Description": "Rishi (Ravi Teja) is an inspector in the Intelligence Bureau. His colleagues fondly call him 'Mirapakaay'. IB chief Murthy (Nagababu) gets information that mafia don Kittu (Prakash Raj) is trying to spread his tentacles in India and is targeting Delhi first.",
+			"Movieimg": "https://i.ytimg.com/vi/ywVvSNuqHSY/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "ipxLIsXn7T4",
+			"Movie_name": "Where Is The Venkatalakshmi",
+			"Geners":"Horror, Thriller",
+			"Description": "Two young men, Chantigadu and Pandugadu, are known for creating trouble in their village. This, however, changes when Venkatalakshmi arrives and the duo set out to woo her.",
+			"Movieimg": "https://i.ytimg.com/vi/ipxLIsXn7T4/maxresdefault.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "lARsIB5LUPc",
+			"Movie_name": "Kartik Ka Badla",
+			"Geners":"Comedy",
+			"Description": "Things go awry between two friends, Vijay and Anand, which ruin their friendship. However, 26 years later, Karthik, Vijay's nephew, arrives in India with a secret mission.",
+			"Movieimg": "https://i.ytimg.com/vi/lARsIB5LUPc/maxresdefault.jpg"
+		},
+		{
+			"id": 22,
+			"Video_Id": "6BGFSuXv-7M",
+			"Movie_name": "Tera Ashiq",
+			"Geners":"Action, Comedy, Drama",
+			"Description": "Raj Tarun is a young village guy, who starts loving a girl (Arthana Binu) from young age. Raj Tarun remains in the village, Arthana Binu goes to the city for higher education and keeps coming to the village for holidays.",
+			"Movieimg": "https://i.ytimg.com/vi/6BGFSuXv-7M/maxresdefault.jpg"
+		},
+		{
+			"id": 23,
+			"Video_Id": "v8_y69wbA1M",
+			"Movie_name": "Tholu Bommalata",
+			"Geners":"Drama",
+			"Description": "Rajendra Prasad is a prominent figure in his village. His final wish is for his granddaughter and grandson to move into life.",
+			"Movieimg": "https://i.ytimg.com/vi/v8_y69wbA1M/maxresdefault.jpg"
+		},
+		{
+			"id": 24,
+			"Video_Id": "TkEABpZlD8o",
+			"Movie_name": "Housefull 4",
+			"Geners":"Comedy",
+			"Description": "Three brothers are set to marry three sisters. However, a peek into the distant past reveals to one of the brothers that their brides have been mixed up in their current",
+			"Movieimg": "https://i.ytimg.com/vi/WMmSPzsM_kA/maxresdefault.jpg"
+		}
+	],
+	"Fantasy Movie":[
+		{
+			"id": 1,
+			"Video_Id": "oNASnPNl7N8",
+			"Movie_name": "The Mummy's Island",
+			"Geners":"Fantasy Drama",
+			"Description": "Sudsakorn is a curious young man, raised in the ancient traditions of magic by his mystical grandfather. He never knew his farther. His mother, a beautiful mermaid is pained by his sadness , so sends him on a quest to find his father.",
+			"Movieimg": "https://i.ytimg.com/vi/oNASnPNl7N8/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "2DqBP2Eroh4",
+			"Movie_name": "Magic World of Andrews",
+			"Geners":"Fantasy Action",
+			"Description": "Maud, Adrien and Johan are three teenagers living in a port village in the south of France. Every summer, the place is crowded with tourist, coming to spend their holidays under a blazing sun. While the beaches are crowded and the heat is unbearable, Maud, Adrien and Johan prefer to get in the places only them know about.",
+			"Movieimg": "https://i.ytimg.com/vi/2DqBP2Eroh4/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "YsasEgkfJJ8",
+			"Movie_name": "Mysterious Island",
+			"Geners":"Adventure Action, Fantasy",
+			"Description": "The Mysterious Island is a 2012 American science fantasy action-adventure film directed by Brad Peyton and produced by Beau Flynn, Tripp Vinson and Charlotte Huggins. A sequel to Journey to the Center of the Earth (2008), the film is based on Jules Verne's The Mysterious Island (1875).",
+			"Movieimg": "https://i.ytimg.com/vi/YsasEgkfJJ8/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "C3RYpnLwWK8",
+			"Movie_name": "SANJEEVANI",
+			"Geners":"Adventure Thriller, Fantasy",
+			"Description": "Sanjeevini’s story is all about a group of mountaineers who get an offer from the Indian government to trace the hidden secrets behind an undiscovered mountain in a valley. Accepting the challenge, the group start their adventure trip to the mysterious mountain.",
+			"Movieimg": "https://i.ytimg.com/vi/C3RYpnLwWK8/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "PrVI2p19euI",
+			"Movie_name": "BERMUDA TENTACLES",
+			"Geners":"Action Thriller, Fantasy",
+			"Description": "Bermuda Tentacles is an American made-for-television science fiction horror film directed by Nick Lyon. It starred Linda Hamilton and featured ensemble cast of Trevor Donovan, Mýa, John Savage and Jamie Kennedy.",
+			"Movieimg": "https://i.ytimg.com/vi/PrVI2p19euI/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "IPbFtnu0pQA",
+			"Movie_name": "For the Love of Jessee",
+			"Geners":"Drama Thriller",
+			"Description": "Doctor Luke Matthew's world comes crashing down when he loses the love of his life and becomes a father in the same night. When he hires Sage as the new nanny, they both begin to realize that the best form of medicine is letting go.",
+			"Movieimg": "https://i.ytimg.com/vi/IPbFtnu0pQA/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "bFyz_i6EUXg",
+			"Movie_name": "Aladin",
+			"Geners":"Fantasy Comedy",
+			"Description": "The film opens with the family of archeologist Arun Chatterjee, who lives with his wife, Riya, and their baby son, Aladin.",
+			"Movieimg": "https://i.ytimg.com/vi/bFyz_i6EUXg/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "lCOl2sAGB5Y",
+			"Movie_name": "2047: Virtual Revolution",
+			"Geners":"Action, Science Fiction",
+			"Description": "In a future mega city, where most people spend most time hooked up to a virtual world, an agent, employed by a corporation supplying virtual reality, is busy tracking down killers/terrorists, both in the virtual and real world.",
+			"Movieimg": "https://i.ytimg.com/vi/lCOl2sAGB5Y/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "wYXc33R7HsM",
+			"Movie_name": "Daughter of the Wolf",
+			"Geners":"Action Thriller",
+			"Description": "Clair Hamilton is a military veteran whose son Charlie has been kidnapped. She brings a bag of money as ransom for Charlie but at the exchange she is double-crossed by the kidnappers, leading to a shootout.",
+			"Movieimg": "https://i.ytimg.com/vi/wYXc33R7HsM/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "g0q6v7mXoJw",
+			"Movie_name": "Hacker",
+			"Geners":"Crime Film, Thriller",
+			"Description": "The teenage girl witnessed the arrest of her father. As an adult, she become a hacker and assisted in national security. While on task she discovered assassination of a congressman.",
+			"Movieimg": "https://i.ytimg.com/vi/g0q6v7mXoJw/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "Kp-hjpI_VH0",
+			"Movie_name": "Goli Soda",
+			"Geners":"Action, Drama",
+			"Description": "The story is set in the famous Koyambedu market in Chennai. The movie talks about four adolescent boys whose life revolves around the wholesale vegetable and fruit market, situated in Chennai, the largest of its kind in Asia.",
+			"Movieimg": "https://i.ytimg.com/vi/Kp-hjpI_VH0/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "6f1PlvqIE0c",
+			"Movie_name": "Women Power",
+			"Geners":"Action",
+			"Description": "The plot revolves around the death of motorists who break a traffic rule at a particular flyover in Hyderabad and the subsequent pinning down of the culprit by an intern journalist and police inspector duo.",
+			"Movieimg": "https://i.ytimg.com/vi/6f1PlvqIE0c/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "43USfrihSX4",
+			"Movie_name": "Gulebagavali",
+			"Geners":"Action, Romance Mafia",
+			"Description": "The movie story deals with Badri, a thief, who tries to steal a mysterious trunk from the village “Gulaebagavali” as per the orders of a businessman. However, chaos ensues when the truth about the trunk is revealed.",
+			"Movieimg": "https://i.ytimg.com/vi/43USfrihSX4/mqdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "QZqZktfb36w",
+			"Movie_name": "Mickey Virus",
+			"Geners":"Comedy, Thriller",
+			"Description": "Mickey Virus is 2013 Indian comedy thriller film, written & directed by Saurabh Varma. Mickey Virus is produced by DAR Motion Pictures in association with Trilogic Digital Media Limited & Awesome Films Pvt. Ltd.",
+			"Movieimg": "https://i.ytimg.com/vi/QZqZktfb36w/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "dSfBkwiumgE",
+			"Movie_name": "Balupu",
+			"Geners":"Action, Comedy",
+			"Description": "Ravi, who works as a collection agent for a bank, realises that a couple cheats gullible people of their money. He decides to give them a taste of their own medicine and falls in love along the way.",
+			"Movieimg": "https://i.ytimg.com/vi/dSfBkwiumgE/hqdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "q5WbxtdYJNk",
+			"Movie_name": "Angel",
+			"Geners":"Comedy, Fantasy",
+			"Description": "Tom, a young auto mechanic falls in love with Diya whom he sees one day from the bus. The love got blossomed and at one point a psychopath named Edger came in to the life of this couple after an unfortunate accident. The incident lead to a scenario where Edger got humiliated and the movie is basically about the rivalry between Tom and Edger.",
+			"Movieimg": "https://i.ytimg.com/vi/q5WbxtdYJNk/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "fr14UkAuyAI",
+			"Movie_name": "Bewares",
+			"Geners":"Fantasy",
+			"Description": "Sanjosh is nicknamed Bewars for his aimless attitude to life by his father (Rajendra Prasad) with whom he has regular squabbles about following his passion in becoming a pilot. In a turn of events, Sanjosh finds out that his sister has committed suicide, albeit suspiciously.",
+			"Movieimg": "https://i.ytimg.com/vi/fr14UkAuyAI/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "4AMMoj8sMZg",
+			"Movie_name": "Rebel Raja",
+			"Geners":"Action, Fantasy",
+			"Description": "Vishnu is a happy go software engineer sharing a very close bond with his mom. She even suggests him to love a girl. With this, as time passes, he falls in love with Keerthi. After this, some twists arise and how Vishnu manages to solve all the problems forms the rest of the story.",
+			"Movieimg": "https://i.ytimg.com/vi/4AMMoj8sMZg/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "Mttt0hCM3PM",
+			"Movie_name": "Special Officer",
+			"Geners":"Action, Fantasy",
+			"Description": "A city witnesses a spike in its crime rate due to the nefarious activities of a notorious motorcycle club. When things get out of hand, it is up to Arjun, a police officer, to restore law and order.",
+			"Movieimg": "https://i.ytimg.com/vi/Mttt0hCM3PM/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "Ev-btXCVLsw",
+			"Movie_name": "Robot 3.0",
+			"Geners":"Action, Drama",
+			"Description": "The Hero is a Scientist who conducts research for several years to make a Robot. He teaches everything to the Robot starting from language to emotions.",
+			"Movieimg": "https://i.ytimg.com/vi/Ev-btXCVLsw/maxresdefault.jpg"
+		}
+	],
+	"Horror Movie":[
+		{
+			"id": 1,
+			"Video_Id": "AS2vqqq3hes",
+			"Movie_name": "Bhoothnath Returns",
+			"Geners":"Horror Drama, Comedy",
+			"Description": "Bhoothnath Returns is a 2014 Indian Hindi-language supernatural comedy film directed by Nitesh Tiwari and produced by Bhushan Kumar.",
+			"Movieimg": "https://i.ytimg.com/vi/AS2vqqq3hes/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "m_lVr6HKyBI",
+			"Movie_name": "Stree",
+			"Geners":"Horror Comedy",
+			"Description": "Stree is a 2018 Indian Hindi-language comedy horror film directed by debutant Amar Kaushik in his directorial debut and produced by Dinesh Vijan and Raj & D.K.",
+			"Movieimg": "https://jiocinemaweb.cdn.jio.com/jioimages.cdn.jio.com/content/entry/dynamiccontent/thumbs/1680/-/0/54/67/3d529440419711e9b73eed5abd461867_1572294911822_l_medium.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "aBFIxSfAS3c",
+			"Movie_name": "Laxmi Bomb",
+			"Geners":"Comedy horror",
+			"Description": "Aasif visits his wife's parents' house and happens to go to a ground that is supposedly haunted. However, he is soon possessed by the spirit of a transgender who is out for revenge.",
+			"Movieimg": "https://i.ytimg.com/vi/aBFIxSfAS3c/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "4ILcOpDE1lc",
+			"Movie_name": "Darna Zaroori Hai",
+			"Geners":"Horror",
+			"Description": "Six children get lost in a forest in the middle of the night. They reach a haunted house where an old woman challenges them to sit through a narration of six horrific stories.",
+			"Movieimg": "https://i.ytimg.com/vi/4ILcOpDE1lc/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "i9I59bvJnNk",
+			"Movie_name": "Kanchana 3",
+			"Geners":"Horror Comedy, Thriller",
+			"Description": "An NRI wants to sell his ancestral home, but later hears rumours of it being haunted. Unwilling to sell the property at a throwaway price, he asks a team of four guys to spend a night in the house and prove that it isn't a ghost den.",
+			"Movieimg": "https://i.ytimg.com/vi/2WtvNZGJj04/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "VuwboLzEM-0",
+			"Movie_name": "1920: The Evil Returns",
+			"Geners":"Horror Romance, Drama",
+			"Description": "In 1920, Jaidev Verma is a famous poet who lives the life of a loner as he is unable to meet the love of his life, Smruti. They got to know each other through an exchange of letters and slowly fall in love.",
+			"Movieimg": "https://i.ytimg.com/vi/VuwboLzEM-0/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "pteBL-9DC9g",
+			"Movie_name": "Arundhati Ek Anokhi Kahani",
+			"Geners":"Horror Romance, Drama",
+			"Description": "During a visit to her native place, Arundhati learns that she looks like her great-grandmother, Jejamma. Soon, Jejamma's battles become her own as she fights a black magician who wants to kill her.",
+			"Movieimg": "https://i.ytimg.com/vi/pteBL-9DC9g/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "aA9y1a25OnU",
+			"Movie_name": "Kanchana 2",
+			"Geners":"Horror Comedy, Romance",
+			"Description": "Raghava who always fear to watch horror movies, takes his mom to the toilet as he has Nyctophobia and whenever he feels the extreme shock, he sits on the lap of woman next to him.",
+			"Movieimg": "https://i.ytimg.com/vi/aA9y1a25OnU/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "S0YPxL2dd48",
+			"Movie_name": "Shaapit",
+			"Geners":"Horror Action, Romance",
+			"Description": "The film is based on the story of a family whose daughters have been carrying a curse from generation to generation.It also stars Murli Sharma and Nishigandha Wad.",
+			"Movieimg": "https://i.ytimg.com/vi/S0YPxL2dd48/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "0DGeKo6NBms",
+			"Movie_name": "Raj Mahal 3",
+			"Geners":"Horror, Comedy",
+			"Description": "The film is a love story with elements of horror. The protagonist is a man who shows off his bravery and also manages to scare ghosts.",
+			"Movieimg": "https://i.ytimg.com/vi/0DGeKo6NBms/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "rBVvJFh1NeE",
+			"Movie_name": "Lisaa",
+			"Geners":"Horror, Drama",
+			"Description": "Lisaa decides to meet her grandparents and get a nod from them for her single mother’s second marriage. As Lisaa is planning to leave to the US, she wants her mother to have a companion and hence, insists her to remarry.",
+			"Movieimg": "https://i.ytimg.com/vi/a823t5zBAkI/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "HLT43-UouCI",
+			"Movie_name": "Manjulika Returns 2",
+			"Geners":"Horror",
+			"Description": "Manjulika Returns 2 is the story of four people from different stratum of society. Prem played by Thirugan is a bachelor who has been desperately seeking for marriage alliance for the past few years. He would be looking at every unmarried girl with dreams in his eyes and will go to any extent to get married.",
+			"Movieimg": "https://i.ytimg.com/vi/HLT43-UouCI/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "4-j7wyf8rQ4",
+			"Movie_name": "Mohini",
+			"Geners":"Horror, Thriller",
+			"Description": "Vaishnavi (Trisha) is a very popular YouTube chef living in India. Her friend Ambujam's (Gayatri Rema) fiance Cotton (Yogi Babu) are stuck in a situation that demands him to go to London to work as a chef, but he is unqualified.",
+			"Movieimg": "https://i.ytimg.com/vi/WMKEpvBolQE/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "iKTDhLOu1r4",
+			"Movie_name": "L7",
+			"Geners":"Suspenseful horror",
+			"Description": "The movie story deals with Arun and Sandhya both are a newly married couple they move into a house to start their martial life. As expected, the house is haunted and things start falling apart for the couple as Sandhya starts behaving quite weirdly.",
+			"Movieimg": "https://i.ytimg.com/vi/iKTDhLOu1r4/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "Fv8D7mCPzKQ",
+			"Movie_name": "Damayanthi",
+			"Geners":"Horror, Comedy, Thriller",
+			"Description": "After several years Damayanthi returns to exact her revenge on the people who brutally murdered her entire family for getting the inheritance.",
+			"Movieimg": "https://i.ytimg.com/vi/Fv8D7mCPzKQ/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "y4YnqD3dQs8",
+			"Movie_name": "Raj Mahal 4",
+			"Geners":"Horror, Comedy, Thriller",
+			"Description": "A fictional hill resort is the milieu, where a con couple Kiran along with his girlfriend inherits a spooky looking dilapidated mansion and they move in, and decide to run a hotel there.",
+			"Movieimg": "https://i.ytimg.com/vi/y4YnqD3dQs8/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "qGQvuaPmZxc",
+			"Movie_name": "181",
+			"Geners":"Horror",
+			"Description": "An aspiring film director along with his wife goes to a resort to write a story. When he begins writing the story, some paranormal force prevents him from penning the story. What is the mystic force? Can he saves himself and his wife?",
+			"Movieimg": "https://i.ytimg.com/vi/qGQvuaPmZxc/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "0XIRZTu_fQY",
+			"Movie_name": "Sirivennela",
+			"Geners":"Horror, Drama",
+			"Description": "A blind flautist plays flute on the road for a living and is discovered by a rich woman, who takes him to the city where he gets acknowledged for his talent. With time, he falls for her but she sacrifices him for a mute girl who loves him equally.",
+			"Movieimg": "https://i.ytimg.com/vi/0XIRZTu_fQY/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "NodBeYMjNtY",
+			"Movie_name": "Ghost 5",
+			"Geners":"Horror",
+			"Description": "Vikram Naidu is an Interpol field agent, in Dubai, who suffers from anger management and nightmares, about a riot that took place in 1984 in New Delhi, in which his mother was killed, when he was 10 years old.",
+			"Movieimg": "https://i.ytimg.com/vi/NodBeYMjNtY/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "dn02Te7EoPc",
+			"Movie_name": "Bhoot Dumdaar",
+			"Geners":"Horror",
+			"Description": "Ashwin and Maya, a couple in love, learn of the presence of an evil spirit in their life. Determined to bring their life back to normalcy, Ashwin sets out on a spooky journey to safeguard his love.",
+			"Movieimg": "https://i.ytimg.com/vi/dn02Te7EoPc/maxresdefault.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "2N3YZ7UnSY0",
+			"Movie_name": "QATIL SAYA",
+			"Geners":"Horror, Thriller",
+			"Description": "A cop who takes charge at a police station in a hill station goes after the reasons behind a few unnatural deaths which seem mysterious like never before.",
+			"Movieimg": "https://i.ytimg.com/vi/2N3YZ7UnSY0/maxresdefault.jpg"
+		}
+	],
+	"Crime Movie":[
+		{
+			"id": 1,
+			"Video_Id": "eHkke8hsy1I",
+			"Movie_name": "Vivegam",
+			"Geners":"Adventure Crime, Action Drama",
+			"Description": "The film opens with an arms exchange deal between the General Secretary of Europol police and the head of the Russian mafia gang in a dense Serbian forest, secured with multiple layers of military personnel.",
+			"Movieimg": "https://i.ytimg.com/vi/8DXYdQmRqXU/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "87Ai7pdYegY",
+			"Movie_name": "Main Hoon Lucky The Racer",
+			"Geners":"Comedy Action, Drama",
+			"Description": "Ram Prasad and Lakshman Lucky Prasad are brothers and polar opposites. While the former is an honorable Assistant Commissioner of Police, the latter is a happy guy who is constantly at odds with his brother.",
+			"Movieimg": "https://i.ytimg.com/vi/87Ai7pdYegY/mqdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "en6qrGybhQU",
+			"Movie_name": "Vardi Ka Dum",
+			"Geners":"Action Crime, Drama",
+			"Description": "Four youngsters, sons of rich & affluent businessmen in the city. Subash (Ravi) is a young SI who respects & safeguards public but works under corrupt seniors. Subash comes to know that, these four rich guys had raped & murdered an innocent girl & have been doing same with many other girls.",
+			"Movieimg": "https://i.ytimg.com/vi/en6qrGybhQU/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "qIx0-MB6iXY",
+			"Movie_name": "Warning 2",
+			"Geners":"Crime Action, Drama",
+			"Description": "Warning 2 is a south movie released on 19 Nov, 2021. The movie is directed by Amar Hundal and featured Gippy Grewal, Prince Kanwaljit Singh, Dheeraj Kumar and Mahabir Bhullar as lead characters. Other popular actor who was roped in for Warning is Ashish Duggal.",
+			"Movieimg": "https://i.ytimg.com/vi/qIx0-MB6iXY/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "nQTnJdU0Azs",
+			"Movie_name": "376 D",
+			"Geners":"Crime Thriller",
+			"Description": "On the streets of Delhi, a shocking crime changes the lives of two brothers. As they seek legal recourse, they begin to realise that the laws in place may not give them justice.",
+			"Movieimg": "https://i.ytimg.com/vi/nQTnJdU0Azs/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "GVIkN8bv6FQ",
+			"Movie_name": "Agent Sai",
+			"Geners":"Comedy Crime, Thriller",
+			"Description": "Agent Sai Srinivasa Athreya is a 2019 Indian Telugu-language comedy mystery film directed by Swaroop R. S. J., who co-wrote the film with Naveen Polishetty. The film stars Naveen Polishetty as the title character alongside Shruti Sharma in her Telugu debut.",
+			"Movieimg": "https://i.ytimg.com/vi/NvbqQvRPUmw/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "g7pbAIqUR4M",
+			"Movie_name": "Agent Vinod",
+			"Geners":"Action Spy",
+			"Description": "Agent Vinod is a 2020 Indian Hindi-language action spy film written and directed by Sriram Raghavan produced by Saif Ali Khan and Dinesh Vijan.",
+			"Movieimg": "https://i.ytimg.com/vi/eVSEeZOGD44/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "DQyTksXxznw",
+			"Movie_name": "Monsoon Shootout",
+			"Geners":"Crime Thriller, Action",
+			"Description": "Adi, a policeman, joins an anti-extortion unit of the Mumbai Police led by Khan. When an ambush goes wrong, Adi chases a wanted gangster, Shiva, and is unsure about killing him in an encounter.",
+			"Movieimg": "https://i.ytimg.com/vi/DQyTksXxznw/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "QowFdS25XnE",
+			"Movie_name": "Kaabil",
+			"Geners":"Action Romance, Thriller",
+			"Description": "Kaabil is a 2017 Indian Hindi-language romantic action thriller film directed by Sanjay Gupta, written by Vijay Kumar Mishra, produced by Rakesh Roshan under his banner FilmKraft Productions.",
+			"Movieimg": "https://i.ytimg.com/vi/QowFdS25XnE/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "RX4k1BQFS3c",
+			"Movie_name": "Chanakya",
+			"Geners":"Spy Action, Thriller",
+			"Description": "Arjun, a highly sought-after RAW agent, is known for his skills at catching some of the most hardened criminals. However, he falls in danger when he goes after Ibrahim Qureshi, a terrorist.",
+			"Movieimg": "https://i.ytimg.com/vi/RX4k1BQFS3c/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "Pooj2tBUBEM",
+			"Movie_name": "Shiva The Super Hero 3",
+			"Geners":"Action, Comedy, Mystery",
+			"Description": "Three friends decide to invest in a resort and run a business. When they learn that a series of paranormal activities take place, they seek help from a renowned mentalist.",
+			"Movieimg": "https://i.ytimg.com/vi/Pooj2tBUBEM/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "tNVeaEmVfWE",
+			"Movie_name": "Gorilla Gang",
+			"Geners":"Heist, Thriller, Comedy",
+			"Description": "Jeeva, Sathish, Venkat and Sadhik join hands in order to rob a bank with a chimpanzee as their accomplice. However, things do not go the way they planned.",
+			"Movieimg": "https://i.ytimg.com/vi/tNVeaEmVfWE/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "9Zejf4vWNUk",
+			"Movie_name": "Murder Case",
+			"Geners":"Crime Thriller",
+			"Description": "The movie follows Inspector Agni (Ram Arun Castro), a forensic expert who is undergoing treatment for nyctophobia and is suffering from hallucinations about a past murder.",
+			"Movieimg": "https://i.ytimg.com/vi/9Zejf4vWNUk/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "JMmZ_L6jWRo",
+			"Movie_name": "Prime Witness",
+			"Geners":"Crime Thriller",
+			"Description": "Jayaraman was born blind, but has a heightened sense of smell, hearing and touch and is an expert in the martial art of kalaripayattu.",
+			"Movieimg": "https://i.ytimg.com/vi/JMmZ_L6jWRo/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "QikQB04C4OA",
+			"Movie_name": "Tejasvini 2",
+			"Geners":"Crime, Action",
+			"Description": "Police officer Naachiyaar comes across victim Arasi, who is kept hidden by her uncle and his henchmen. She decides to track down the suspect with the help of her partner, Feroz.",
+			"Movieimg": "https://i.ytimg.com/vi/QikQB04C4OA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAtTxD7P54yAq8DxEGg7IgFEy9oDA"
+		},
+		{
+			"id": 16,
+			"Video_Id": "8vKRGOlubSM",
+			"Movie_name": "Mikhael",
+			"Geners":"Crime, Drama",
+			"Description": "A businessman tries to make a young lady commit suicide in order to avenge his son's death. However, the woman's brother, a doctor, saves her and vows to eliminate those who come after his family.",
+			"Movieimg": "https://i.ytimg.com/vi/8vKRGOlubSM/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "PKfsElaqGD4",
+			"Movie_name": "Lady Singham",
+			"Geners":"Drama, Crime",
+			"Description": "Two journalists working in rival organisations are always at loggerheads with each other. However, an unnatural bond develops between them when they are sent to report the Kargil War together.",
+			"Movieimg": "https://i.ytimg.com/vi/PKfsElaqGD4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRaPmIRxfn6Gc5-fKM7JQMNuuPZg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "95vZQuRcnaA",
+			"Movie_name": "Lokpal",
+			"Geners":"Crime, Thriller",
+			"Description": "Nandagopal, a chef, becomes the savior of people in distress and fights against corruption. He has an unnerving past that explains his current state of mind.",
+			"Movieimg": "https://i.ytimg.com/vi/95vZQuRcnaA/hqdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "5u9fYYezm9k",
+			"Movie_name": "Shaitan",
+			"Geners":"Crime, Drama",
+			"Description": "A successful software engineer, Dinesh gets married to Aishwarya through an online matrimonial portal. However, post the honeymoon, he suddenly starts hearing voices and seeing abnormal things that do not have any sort of pattern whatsoever. Only when he gets to a psychiatrist the mystery unravels.",
+			"Movieimg": "https://i.ytimg.com/vi/5u9fYYezm9k/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "vpt1CYIpRrg",
+			"Movie_name": "Raw Agent",
+			"Geners":"Crime, Thriller",
+			"Description": "Edward Livingston, an English professor at the Travancore Maharaja College. As the defiant students continue to split into warring factions, Livingston sets out to restore order and make the campus a better place for everyone.",
+			"Movieimg": "https://i.ytimg.com/vi/vpt1CYIpRrg/maxresdefault.jpg"
+		}
+	],
+	"Mystery Movie":[
+		{
+			"id": 1,
+			"Video_Id": "6H4ezbf86vQ",
+			"Movie_name": "Machine",
+			"Geners":"Action Mystery, Drama",
+			"Description": "Machine is a 2017 Indian romantic thriller film, directed by Abbas–Mustan. The film stars debutant Mustafa Burmawalla and Kiara Advani. The film has been produced by Jayantilal Gada, Haresh Patel (AD Films), Pranay Chokshi, Abbas Mustan Films Productions and Dhaval Jayantilal Gada.",
+			"Movieimg": "https://i.ytimg.com/vi/6H4ezbf86vQ/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "dz3uCM-MrGY",
+			"Movie_name": "Gangs of Wasseypur",
+			"Geners":"Action Drama, Thriller",
+			"Description": "Gangs of Wasseypur is a 2012 Indian Hindi-language two-part crime film produced and directed by Anurag Kashyap,and written by Kashyap and Zeishan Quadri.",
+			"Movieimg": "https://i.ytimg.com/vi/dz3uCM-MrGY/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "eSbDxdE-5SU",
+			"Movie_name": "PK",
+			"Geners":"Fantasy Romance, Comedy",
+			"Description": "PK is a 2014 Indian Hindi-language science fiction comedy-drama film edited and directed by Rajkumar Hirani and written by Hirani and Abhijat Joshi, and jointly produced by Hirani and Vidhu Vinod Chopra under the banners Rajkumar Hirani Films and Vinod Chopra Films respectively.",
+			"Movieimg": "https://i.ytimg.com/vi/eSbDxdE-5SU/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "Pooj2tBUBEM",
+			"Movie_name": "Shiva The Super Hero 3",
+			"Geners":"Action, Comedy, Mystery",
+			"Description": "Three friends decide to invest in a resort and run a business. When they learn that a series of paranormal activities take place, they seek help from a renowned mentalist.",
+			"Movieimg": "https://i.ytimg.com/vi/Pooj2tBUBEM/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "G0JWw7OKbGA",
+			"Movie_name": "Kick",
+			"Geners":"Action Comedy, Drama",
+			"Description": "Kick is a 2014 Indian Hindi-language action film produced and directed by Sajid Nadiadwala, and starring Salman Khan, Jacqueline Fernandez, Randeep Hooda and Nawazuddin Siddiqui.",
+			"Movieimg": "https://resize.indiatvnews.com/en/resize/oldbucket/730_-/entertainmentbollywood/Kick-movie-revi15882.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "R_MRs9G9BdM",
+			"Movie_name": "Dashing Detective",
+			"Geners":"Mystery Crime, Action",
+			"Description": "Kaniyan, a detective from Visakhapatnam, is approached by a child to investigate the mystery behind his pet dog's death. However, it leads Kaniyan to a larger conspiracy involving a deadly assassin.",
+			"Movieimg": "https://i.ytimg.com/vi/g_ZwD2Kdoes/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "xE_yyR0Zjsg",
+			"Movie_name": "Theeran",
+			"Geners":"Action Romance, Crime",
+			"Description": "Theeran, a police officer, tries to decode a series of cold blood events based on same pattern. Who's behind those ruthless events? How Theeran and team traces them? Did they succeed? forms the story of this crime action thriller. The story is based on true incidents handled by Police department in 2000s.",
+			"Movieimg": "https://i.ytimg.com/vi/xE_yyR0Zjsg/mqdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "uyYKJcRAcjE",
+			"Movie_name": "Target",
+			"Geners":"Drama, Action",
+			"Description": "Target India is a Hindi movie starring Vijay Saxena, Arun Bakshi, Ali Khan, Manoj Bakshi,Omkar Natha, Armaann Tahil, and Ramesh Goyal in prominent roles. It is produced and directed by Vijay Saxena forming part of the crew.",
+			"Movieimg": "https://i.ytimg.com/vi/uyYKJcRAcjE/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "2mFdWN1bvoc",
+			"Movie_name": "Maatr",
+			"Geners":"Thriller, Crime",
+			"Description": "Vidya, who's left shattered after her daughter Tia's murder, seeks vengeance by fighting the broken justice and criminal system.",
+			"Movieimg": "https://i.ytimg.com/vi/2mFdWN1bvoc/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "Abz60X6otn4",
+			"Movie_name": "NH-8 Road to Nidhivan",
+			"Geners":"Mystery, Thriller",
+			"Description": "NH-8 Road to Nidhivan is an Indian Psychological- Suspense Thriller film directed by Munindra Gupta and produced by Sunil Goel and Niharika Jha. The film is released on 17 April 2015.",
+			"Movieimg": "https://i.ytimg.com/vi/Abz60X6otn4/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "B3X8XlOXM7g",
+			"Movie_name": "706",
+			"Geners":"Thriller, Mystery",
+			"Description": "The film opens with the disappearance of a noted Mumbai physician Dr Anil Asthana. Deputy Commissioner of Police, Mr. Shekhawat ( Atul Kulkarni) assures his wife, Suman, that they are doing all they can but she is dismissive, this assurance, like the others before it, is empty.",
+			"Movieimg": "https://i.ytimg.com/vi/B3X8XlOXM7g/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "7ngeIDkBxKo",
+			"Movie_name": "Maryan",
+			"Geners":"Drama",
+			"Description": "The movie story deals with Mariyaan Joseph a fisherman in a village named Neerody. He has an auspicious bond with sea and proudly claims himself as Kadal Raasa.",
+			"Movieimg": "https://i.ytimg.com/vi/h-fvJEw6b9c/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "hHId7w5X3aQ",
+			"Movie_name": "Jack And Daniel",
+			"Geners":"Action Thriller, Heist",
+			"Description": "Jackson Mathew is a businessman by day and a thief, who steals from the corrupt, by night. However, the Kerala police appoint Daniel, an incorruptible policeman, to capture him.",
+			"Movieimg": "https://i.ytimg.com/vi/ksduJy7O8PM/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "q5kQ4vvk2CA",
+			"Movie_name": "Sathya",
+			"Geners":"Drama",
+			"Description": "Sathya, the protagonist goes back to india on request of her Ex and helps her in finding her missed daughter, which leads to twists and turns!",
+			"Movieimg": "https://i.ytimg.com/vi/q5kQ4vvk2CA/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "lgaMeT3BbPk",
+			"Movie_name": "GENTLEMAN",
+			"Geners":"Action, Thriller",
+			"Description": "The movie \"GENTLEMAN\" revolves around the character Bharath who is suffering from a rare disorder called Beauty of sleeping syndrome. Because of this, he tends to sleep 18 hours a day and will be awake only 5 to 6 hours.",
+			"Movieimg": "https://i.ytimg.com/vi/lgaMeT3BbPk/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "NNYp-IwHS7c",
+			"Movie_name": "Captain",
+			"Geners":"Action",
+			"Description": "Vetriselvan, an Indian Army Captain is an orphan who is raised in the army school. His only family is his teammates which comprises Karuna, Sheikh, Rekha and Karthi Devan.",
+			"Movieimg": "https://i.ytimg.com/vi/NNYp-IwHS7c/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "YqX0jaXDABM",
+			"Movie_name": "Hit - The First Case",
+			"Geners":"Action, Suspense-Thriller",
+			"Description": "A police officer of the 'Homicide Intervention Team' who frequently suffers from having his panic attacks does everything in his power to rescue a woman who went missing.",
+			"Movieimg": "https://i.ytimg.com/vi/YqX0jaXDABM/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "Ofg1KLL1bSk",
+			"Movie_name": "Dhuruvangal Pathinaaru D16",
+			"Geners":"Crime, Thriller",
+			"Description": "Dhuruvangal Pathinaaru' is a tamil crime thriller which features veteran actor 'Rahman' as the protagonist. Director of the film is a 22 year old debutant 'Karthick Naren'.",
+			"Movieimg": "https://i.ytimg.com/vi/Ofg1KLL1bSk/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "ZyFX9rAPFo0",
+			"Movie_name": "The Reporter",
+			"Geners":"Mystery Thriller",
+			"Description": "Eby Mathew was engaged to Sara, who falls prey to one of the most brutal cases of rape and subsequent homicide.",
+			"Movieimg": "https://i.ytimg.com/vi/ZyFX9rAPFo0/maxresdefault.jpg"
+		}
+	],
+	"Thriller Movie":[
+		{
+			"id": 1,
+			"Video_Id": "IwA_LrtH7YM",
+			"Movie_name": "Aiyaary",
+			"Geners":"Thriller, Drama",
+			"Description": "After Colonel Abhay Singh and his protege, Jai Bakshi, have a fallout, Jai goes rogue and threatens to bring down the government. Learning about this, his mentor is forced to go after him.",
+			"Movieimg": "https://bollyspice.com/wp-content/uploads/2018/02/aiyaary.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "ANRkvosCkKI",
+			"Movie_name": "Sarkar",
+			"Geners":"Thriller Action, Drama",
+			"Description": "Sarkar is a 2005 Indian Hindi-language political crime thriller film directed by Ram Gopal Varma. The film stars Amitabh Bachchan in the title role alongside Abhishek Bachchan as his younger son, along with Kay Kay Menon, Katrina Kaif, Tanisha Mukherjee, Supriya Pathak, Kota Srinivasa Rao, and Anupam Kher.",
+			"Movieimg": "https://i.ytimg.com/vi/ANRkvosCkKI/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "k_I1r8qEht0",
+			"Movie_name": "Rowdy Rathore",
+			"Geners":"Action Thriller",
+			"Description": "A remake of the 2006 Telugu blockbuster Vikramarkudu directed by S. S. Rajamouli, based on an original story written by K. V. Vijayendra Prasad, it stars Akshay Kumar in double roles of a brave police officer and thief.",
+			"Movieimg": "https://i.ytimg.com/vi/k_I1r8qEht0/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "V-jL6An02I8",
+			"Movie_name": "Antim The Final Truth",
+			"Geners":"Action Thriller, Drama",
+			"Description": "Antim: The Final Truth is a 2021 Indian Hindi-language action film directed by Mahesh Manjrekar and produced by Salman Khan Films. Distributed by Zee Studios, it is an adaptation of the Marathi film Mulshi Pattern,and stars Salman Khan, Aayush Sharma, Mahima Makwana and Jisshu Sengupta.",
+			"Movieimg": "https://static.toiimg.com/photo/msid-87254811/87254811.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "tFUPawuuefE",
+			"Movie_name": "Attack",
+			"Geners":"Thriller Action",
+			"Description": "Attack: Part 1 is a 2022 Indian Hindi-language science fiction action film directed by Lakshya Raj Anand, who co-wrote the film with Sumit Batheja and Vishal Kapoor, based on a story by John Abraham.",
+			"Movieimg": "https://i.ytimg.com/vi/Ma3Y-qekYos/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "C12WRs6LiQs",
+			"Movie_name": "Mahanati",
+			"Geners":"Drama Thriller",
+			"Description": "Savitri, the most admired actress from South Indian cinema, goes through various tragic incidents in her personal life. Unable to cope with depression, she eventually becomes an alcoholic.",
+			"Movieimg": "https://i.ytimg.com/vi/C12WRs6LiQs/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "T7QkdexqFWQ",
+			"Movie_name": "Mafia: Chapter 1",
+			"Geners":"Action Thriller",
+			"Description": "Mafia: Chapter 1, known simply as Mafia,is a 2020 Indian Tamil-language action crime film directed and written by Karthick Naren and produced by Allirajah Subaskaran under the banner of Lyca Productions.",
+			"Movieimg": "https://i.ytimg.com/vi/T7QkdexqFWQ/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "yrGcVuhG5k4",
+			"Movie_name": "Chakravyuh",
+			"Geners":"Crime Thriller",
+			"Description": "Chakravyuh is a 2012 Indian naxal propaganda Hindi-language political action thriller film directed by Prakash Jha starring Arjun Rampal in the lead role with Abhay Deol, Esha Gupta, Manoj Bajpayee and Anjali Patil in supporting roles.",
+			"Movieimg": "https://i.ytimg.com/vi/yrGcVuhG5k4/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "NpJ6lnbgi_s",
+			"Movie_name": "Check",
+			"Geners":"Action Thriller, Crime",
+			"Description": "Aditya, a conman, is falsely accused of being a terrorist by his lover and sentenced to death. However, in prison, he learns chess and becomes a champion to obtain a pardon while planning a jailbreak.",
+			"Movieimg": "https://i.ytimg.com/vi/NpJ6lnbgi_s/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "ZVtMBxFtuqg",
+			"Movie_name": "Godse",
+			"Geners":"Action Thriller",
+			"Description": "A reunion with friends changes the way Godse perceives the system. He begins to unravel the system’s hidden agenda that robs off the careers and lives of students. What follows is a fight between Godse and the government for justice.",
+			"Movieimg": "https://i.ytimg.com/vi/ZVtMBxFtuqg/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "nKMQeBLvRi0",
+			"Movie_name": "Sivudu",
+			"Geners":"Action Drama",
+			"Description": "The plot revolves around the crimes in a locality. A jolly youngster gets affected by the activities. His family and life get into danger. Things take a new turn as he decides to fight back. Can he survive and complete his mission?",
+			"Movieimg": "https://i.ytimg.com/vi/nKMQeBLvRi0/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "lIIvFgwREsI",
+			"Movie_name": "Majili",
+			"Geners":"Romance, Drama",
+			"Description": "Poorna is a young guy from Vizag who falls in love with Anju, a rich naval officer’s daughter. As time passes by, Poorna’s local politics create a rift in their love story & they break apart.",
+			"Movieimg": "https://i.ytimg.com/vi/lIIvFgwREsI/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "Z9nVgJ2yorQ",
+			"Movie_name": "Jallikattu",
+			"Geners":"Action Crime, Thriller",
+			"Description": "Jallikattu is a 2019 Indian Malayalam-language independent action thriller film directed by Lijo Jose Pellissery with a screenplay by S. Hareesh and R. Jayakumar, based on the short story Maoist by Hareesh.",
+			"Movieimg": "https://i.ytimg.com/vi/Z9nVgJ2yorQ/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "Lgn4uAnz7CQ",
+			"Movie_name": "Double Attack 2",
+			"Geners":"Action, Thriller",
+			"Description": "Thoroughly frustrated with Industrialists and Politicians ruining the nation by denying the availability of cheap medicines, IPS officer Mithran is on a self-conceived quest to find the head of this medicine-mafia to channel all his anger towards him.",
+			"Movieimg": "https://i.ytimg.com/vi/Lgn4uAnz7CQ/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "410On7aRFn8",
+			"Movie_name": "Arrambam",
+			"Geners":"Action, Drama",
+			"Description": "Arrambam is a 2013 Indian Tamil-language action thriller film directed by Vishnuvardhan. Produced by A. Raghuram and co-written by Subha, the film stars Ajith Kumar, Arya, Nayanthara and Taapsee Pannu.",
+			"Movieimg": "https://i.ytimg.com/vi/410On7aRFn8/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "M0DCiC62URE",
+			"Movie_name": "Silence",
+			"Geners":"Thriller",
+			"Description": "Soon after Arvind, a successful lawyer, is appointed as judge, he gets anonymous calls that threaten the safety of his family. He then enlists the help of an IPS officer to unravel the truth.",
+			"Movieimg": "https://i.ytimg.com/vi/M0DCiC62URE/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "Xw4zIJuXWCg",
+			"Movie_name": "KANAL",
+			"Geners":"Thriller",
+			"Description": "John David(Mohanal) who is an animator by profession happends to meet Anantharaman(Anoop Menon) a media person after a long gap of many years during a train journey.",
+			"Movieimg": "https://i.ytimg.com/vi/Xw4zIJuXWCg/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "vpsWQYnCwIg",
+			"Movie_name": "Laatti",
+			"Geners":"Action, Thriller",
+			"Description": "A police constable, who gets trapped in a building with his 10-year-old kid, and how they escape from the building surrounded by a group of the enemy.",
+			"Movieimg": "https://i.ytimg.com/vi/vpsWQYnCwIg/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "5iUEZEuwZN4",
+			"Movie_name": "George Reddy",
+			"Geners":"Action",
+			"Description": "George Reddy, a student leader in Osmania University, decides to revolt against the injustice and economic inequalities in society.",
+			"Movieimg": "https://i.ytimg.com/vi/5iUEZEuwZN4/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "H5qbpBtfk34",
+			"Movie_name": "Kaaval",
+			"Geners":"Action, Thriller, Drama",
+			"Description": "Thambaan and Anthony Joseph are good friends and also crime fighters duo in Kattappana while also running a sawmill as a side business.",
+			"Movieimg": "https://i.ytimg.com/vi/H5qbpBtfk34/maxresdefault.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "axdymHLfuVw",
+			"Movie_name": "U Turn",
+			"Geners":"Horror, Thriller, Mystery",
+			"Description": "Rachana, an intern at a leading newspaper, investigates accidents occurring on a flyover with the help of a crime reporter. However, she gets accused of murdering a frequent motorist on the flyover.",
+			"Movieimg": "https://i.ytimg.com/vi/axdymHLfuVw/maxresdefault.jpg"
+		},
+		{
+			"id": 22,
+			"Video_Id": "xqa9hJRld94",
+			"Movie_name": "Mission Majnu",
+			"Geners":"Action, Thriller, Spy",
+			"Description": "Amandeep Singh, IPS, is a deep cover RAW field operative in Pakistan on undercover mission. Along the way he married Nasreen Hussain.",
+			"Movieimg": "https://www.hindijugad.com/wp-content/uploads/2023/01/Mission-Majnu-Movie-Whatsapp-Status-Video.jpg"
+		}
+	],
+	"Family Movie":[
+		{
+			"id": 1,
+			"Video_Id": "ahfsgb0cU2s",
+			"Movie_name": "Family Of Thakurganj",
+			"Geners":"Action Comedy, Drama",
+			"Description": "Family Of Thakurganj is a 2019 Indian Hindi-language action drama film directed by Manoj K. Jha, and produced by Ajay Kumar Singh.The film stars Jimmy Sheirgill and Mahie Gill, and follows the influence of modern society on traditional values in a typical family.",
+			"Movieimg": "https://i.ytimg.com/vi/jkxC5MzRFjU/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "yMqnmPbWi1s",
+			"Movie_name": "Gujjubhai The Great",
+			"Geners":"Comedy Drama",
+			"Description": "Gujjubhai The Great is a 2020 Gujarati comedy film directed by Ishaan Randeria. It is presented by Nakshatra Entertainment and produced by Devendra N. Patel in association with Siddharth Randeria Productions.",
+			"Movieimg": "https://i.ytimg.com/vi/WdYZXEzi_0s/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "WXdrVHhhnJg",
+			"Movie_name": "Pappa Tamne Nahi Samjaay",
+			"Geners":"Comedy Drama",
+			"Description": "Pappa Tamne Nahi Samjaay is a 2017 Indian Gujarati-language comedy-drama film written and directed by Dharmesh Mehta, and produced by Alpesh Patel, Harsh Patel and Snehal Trivedi.",
+			"Movieimg": "https://i.ytimg.com/vi/RncSm40YlIU/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "vB2m1uRF30c",
+			"Movie_name": "Sooryavansham",
+			"Geners":"Action Drama",
+			"Description": "Sooryavansham is a 1999 Indian Hindi-language romantic musical drama film directed by E. V. V. Satyanarayana. It stars Amitabh Bachchan in dual roles, with Soundarya, Jayasudha, Rachna Banerjee, Anupam Kher and Kader Khan.",
+			"Movieimg": "https://i.ytimg.com/vi/vB2m1uRF30c/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "rJHsafM32Bk",
+			"Movie_name": "Chhello Divas",
+			"Geners":"Comedy",
+			"Description": "Chhello Divas – A New Beginning is a Gujarati coming of age comedy film, written and directed by Krishnadev Yagnik. The movie stars Malhar Thakar, Yash Soni, Mitra Gadhavi, Aarjav Trivedi, Rahul Raval, Janki Bodiwala, Kinjal Rajpriya, and Netri Trivedi.",
+			"Movieimg": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1e7a42998ab96bece5a1823e8e7c590bc2e15d04ed849e54d49018c00f711928._SX1080_.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "tZrliJEezY0",
+			"Movie_name": "Happy Familyy Pvt Ltd",
+			"Geners":"Comedy, Drama",
+			"Description": "Happy Familyy Pvt Ltd is a comedy feature film which revolves around the story of a rich and happy family which is forced to leave behind the lifestyle of Mumbai and settle in a village.",
+			"Movieimg": "https://i.ytimg.com/vi/tZrliJEezY0/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "RqGnZEpsIQw",
+			"Movie_name": "Baghban",
+			"Geners":"Drama Romance",
+			"Description": "Baghban is a 2003 Indian Hindi-language drama film directed by Ravi Chopra, co-written and produced by B. R. Chopra.",
+			"Movieimg": "https://i.ytimg.com/vi/RqGnZEpsIQw/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "_-BOCRkdt7M",
+			"Movie_name": "Mohabbatein",
+			"Geners":"Drama Romance",
+			"Description": "The story follows Raj aiding with three Gurukul students and their love interests to rebel against Narayan's intolerance of love.",
+			"Movieimg": "https://i.ytimg.com/vi/_-BOCRkdt7M/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "DOO9WZiN4n0",
+			"Movie_name": "Sharato Lagu",
+			"Geners":"Comedy Drama",
+			"Description": "Sharato Lagu is a 2018 Indian Gujarati-language comedy drama film starring Malhar Thakar,Deeksha Joshi,Prashant Barot, Hemant Jha, Chhaya Vora and Alpana Buch.",
+			"Movieimg": "https://i.ytimg.com/vi/DOO9WZiN4n0/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "EGhTPNrWP3Q",
+			"Movie_name": "Ventilator",
+			"Geners":"Comedy, Drama",
+			"Description": "Ventilator is a 2018 Indian Gujarati comedy-drama film directed by Umang Vyas, and produced by Falguni Patel and Lawrence D'Souza. It is an adaption of 2016 Marathi film Ventilator written and directed by Rajesh Mapuskar and produced by Priyanka Chopra.",
+			"Movieimg": "https://i.ytimg.com/vi/EGhTPNrWP3Q/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "lji630IAUxQ",
+			"Movie_name": "S/O Krishnamurthy",
+			"Geners":"Drama",
+			"Description": "Raghava Raju (Prakash Raj) And His Wife (Jayasudha) Are Blessed With All Materialistic Happiness. Bangarraju (Naresh) - Son Of Raghava Raju Also Stays With Them Along With His Son Raju (Sharwanand).",
+			"Movieimg": "https://i.ytimg.com/vi/lji630IAUxQ/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "xlaStrxzW_U",
+			"Movie_name": "Dayaalu",
+			"Geners":"Drama Family",
+			"Description": "Radha (Naga Chaitanya) and Krishna (Samantha) are a married couple with a kid Bittu in early 1980's. They die in an accident. Bittu (Nagarjuna) grows up and happens to see reincarnation of his father and his mother as youngsters.",
+			"Movieimg": "https://i.ytimg.com/vi/xlaStrxzW_U/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "yDwQ3ml1Sf4",
+			"Movie_name": "Vaah Life Ho Toh Aisi",
+			"Geners":"Comedy, Drama, Romance",
+			"Description": "He is the only one working in the family. He falls in love with a tuition teacher, Priya (Amrita Rao). They confess their feelings to each other and plan to get married.",
+			"Movieimg": "https://i.ytimg.com/vi/yDwQ3ml1Sf4/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "VNQ0C4kJ9oU",
+			"Movie_name": "Naani Maa",
+			"Geners":"Comedy, Drama",
+			"Description": "Santosh decides to keep his grandmother Sita Mahalakshmi happy at any cost because she helped him in a game of hide and seek during his childhood.",
+			"Movieimg": "https://i.ytimg.com/vi/VNQ0C4kJ9oU/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "BISCVgsVqIQ",
+			"Movie_name": "Super Family",
+			"Geners":"Comedy",
+			"Description": "Arun (Prabhu) and Hari (Vivek) are close friends and bank employees. Abhirami (Prathyusha) sincerely and secretly loves Arun been living in the opposite mansion of Arun for a long time.",
+			"Movieimg": "https://i.ytimg.com/vi/BISCVgsVqIQ/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "EghtAfrAKVg",
+			"Movie_name": "Mubarakan",
+			"Geners":"Comedy, Romantic",
+			"Description": "A simpleton guy Anand and a modern girl Akshara fall in love and decide to get married. However, their lives turn upside down when Akshara's past walks back in her life, making her have second thoughts on their wedding day.",
+			"Movieimg": "https://i.ytimg.com/vi/EghtAfrAKVg/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "aq56J9BiglQ",
+			"Movie_name": "Oh My Kadavule",
+			"Geners":"Comedy, Drama",
+			"Description": "Anu (Ritika Singh), Arjun (Ashok Selvan) and Mani (Sha Ra) are best friends since childhood. During a party to celebrate Arjun clearing his Engineering arrear exams, Anu tells the other two of her father Paulraj (M. S. Bhaskar) looking for a groom for her.",
+			"Movieimg": "https://i.ytimg.com/vi/aq56J9BiglQ/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "1a23TLgqdmw",
+			"Movie_name": "Businessman",
+			"Geners":"Drama, Action",
+			"Description": "A money-minded tycoon gets into a mutually beneficial relationship with a woman for the sake of his business. Soon, he learns about the differences in his family and decides to end them.",
+			"Movieimg": "https://i.ytimg.com/vi/1a23TLgqdmw/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "CFn3-WusLVQ",
+			"Movie_name": "83",
+			"Geners":"Sports, Drama",
+			"Description": "Cricketer Kapil Dev gets an opportunity to make his country famous on the world stage when he captains the Indian national cricket team at the 1983 Cricket World Cup.",
+			"Movieimg": "https://static.toiimg.com/photo/87976035.jpeg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "XaodMMhrFYg",
+			"Movie_name": "Amar Akbhar Anthoni",
+			"Geners":"Action, Comedy, Drama",
+			"Description": "A man suffering from Dissociative Identity Disorder has to take revenge against four businessmen for the murder of his family while his past confronts him in the form of his childhood love.",
+			"Movieimg": "https://i.ytimg.com/vi/XaodMMhrFYg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNLjw6NswvxXTU_XCSY013aXukcw"
+		}
+	],
+	"Action Movie":[
+		{
+			"id": 1,
+			"Video_Id": "7_-fTlskezg",
+			"Movie_name": "Vikram Vedha",
+			"Geners":"Thriller Drama, Action",
+			"Description": "Vikram, a no-nonsense police officer, accompanied by Simon, his partner, is on the hunt to capture Vedha, a smuggler and a murderer. Vedha tries to change Vikram's life, which leads to a conflict.",
+			"Movieimg": "https://i.ytimg.com/vi/7_-fTlskezg/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "gKizDojsdvs",
+			"Movie_name": "K.G.F",
+			"Geners":"Action Romance, Thriller",
+			"Description": "The movie dates back to 1951. Here, two incidents take place; The birth of the hero and other in the Kolar Gold Fields (K.G.F) they get gold. The hero is brought up in poverty.",
+			"Movieimg": "https://i.ytimg.com/vi/gKizDojsdvs/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "CRTsuj__C4w",
+			"Movie_name": "Ek Aur Bol Bachchan",
+			"Geners":"Action Comedy, Drama",
+			"Description": "After losing his job and his ancestral property, Rahman and his sister move to a small town. Circumstances force him to perpetually lie about his true identity.",
+			"Movieimg": "https://i.ytimg.com/vi/CRTsuj__C4w/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "RX4k1BQFS3c",
+			"Movie_name": "Chanakya",
+			"Geners":"Spy Action, Thriller",
+			"Description": "Arjun, a highly sought-after RAW agent, is known for his skills at catching some of the most hardened criminals. However, he falls in danger when he goes after Ibrahim Qureshi, a terrorist.",
+			"Movieimg": "https://i.ytimg.com/vi/RX4k1BQFS3c/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "REdVA3_ORk0",
+			"Movie_name": "The Return of Abhimanyu",
+			"Geners":"Action Thriller",
+			"Description": "The movie is a techno thriller with many action scenes. The story also concerns hacking and the leak of information, how in the days of interconnections, the privacy of a person doesn't hold power, as anyone can be hacked and their personal information stolen from them.",
+			"Movieimg": "https://i.ytimg.com/vi/GuxTVbXix2o/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "q_3TWLY7h2k",
+			"Movie_name": "Action",
+			"Geners":"Action Drama",
+			"Description": "An agent, sent by the Indian army to observe a terrorist, finds his mission complicated when he discovers undercover agents in his own country.",
+			"Movieimg": "https://i.ytimg.com/vi/q_3TWLY7h2k/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "6uxz_eh1N-k",
+			"Movie_name": "Makkhi",
+			"Geners":"Action Drama, Romance",
+			"Description": "A young girl who is unable to sleep asks her father to tell her a bedtime story. Although reluctant at first, he tells her a story of a fly named Nani.",
+			"Movieimg": "https://i.ytimg.com/vi/6uxz_eh1N-k/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "k04ErjFQO-c",
+			"Movie_name": "Mahaabali",
+			"Geners":"Action Romance, Drama",
+			"Description": "In this quest for sanctuary, love, and identity, a man and his uncle arrive in Hyderabad, where they capitalise on the uncle's resemblance to a local don.",
+			"Movieimg": "https://i.ytimg.com/vi/k04ErjFQO-c/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "DQyTksXxznw",
+			"Movie_name": "Monsoon Shootout",
+			"Geners":"Crime Thriller, Action",
+			"Description": "Adi, a policeman, joins an anti-extortion unit of the Mumbai Police led by Khan. When an ambush goes wrong, Adi chases a wanted gangster, Shiva, and is unsure about killing him in an encounter.",
+			"Movieimg": "https://i.ytimg.com/vi/DQyTksXxznw/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "LCiUlIm5pIA",
+			"Movie_name": "Bang Bang",
+			"Geners":"Action Romance, Comedy",
+			"Description": "Bang Bang! is a 2014 Indian Hindi-language action comedy film directed by Siddharth Anand and written by Abbas Tyrewala, Sujoy Ghosh and Suresh Nair.",
+			"Movieimg": "https://i.ytimg.com/vi/jZyAB2KFDls/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "n0ykIJjzQuk",
+			"Movie_name": "Mar Mitenge",
+			"Geners":"Family, Action, Adventure",
+			"Description": "A man involved in mercenary activities saves an abducted woman from a group of hooligans. Later, he falls in love with her and sets out to avenge the deaths of her family members.",
+			"Movieimg": "https://i.ytimg.com/vi/8iMfWicy48k/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "jyyyZqhMtBg",
+			"Movie_name": "Sabse Badhkar Hum 2",
+			"Geners":"Action, Drama",
+			"Description": "The movie story deals with Relangi Mavayya a gentleman from a small village Relangi and he believes in human values and relationships.",
+			"Movieimg": "https://i.ytimg.com/vi/jyyyZqhMtBg/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "ZiOJq6PMkls",
+			"Movie_name": "Aswathama",
+			"Geners":"Action Crime",
+			"Description": "Gana (Naga Shaurya) returns to India for his sister Priya’s (Sargun Kaur Luthra) wedding. But when she tries to kill herself, he finds out she’s pregnant but doesn’t know how. How he tracks down the man who did this to his sister and countless other girls forms the story.",
+			"Movieimg": "https://i.ytimg.com/vi/ZiOJq6PMkls/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "OEP-Q3wVIpI",
+			"Movie_name": "Parris Jeyaraj",
+			"Geners":"Romantic Comedy",
+			"Description": "Jeyaraj and Divya, two people going through heartbreak, meet and fall in love. However, their families oppose their relationship, and to add to their woes, Divya's former lover re-enters her life.",
+			"Movieimg": "https://i.ytimg.com/vi/OEP-Q3wVIpI/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "LkulcLt761g",
+			"Movie_name": "Dangerous Khiladi 7",
+			"Geners":"Action Romance",
+			"Description": "Saravana falls in love with his best friend Krishna's sister, Sadhana. During the fight with rival thugs, he manages to save Sadhana, who watches her family perish before her eyes.",
+			"Movieimg": "https://i.ytimg.com/vi/LkulcLt761g/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "dIsDOAsE-eM",
+			"Movie_name": "Siruthai",
+			"Geners":"Action",
+			"Description": "A thief comes across a little girl who says that he's her father. When he learns the truth about his lookalike, who's an honest cop, he decides to turn a new leaf and help get rid of the local baddie.",
+			"Movieimg": "https://i.ytimg.com/vi/dIsDOAsE-eM/maxresdefault.jpg"
+		},
+		{
+			"id": 17,
+			"Video_Id": "0SvTf1NRQJE",
+			"Movie_name": "TejaBhai And Family",
+			"Geners":"Action, Comedy",
+			"Description": "A gangster in Malaysia falls head over heels in love with a simple woman. He hides his real identity to impress her but finds himself caught up in hilariously strange situations.",
+			"Movieimg": "https://i.ytimg.com/vi/0SvTf1NRQJE/maxresdefault.jpg"
+		},
+		{
+			"id": 18,
+			"Video_Id": "pvqC887mdgQ",
+			"Movie_name": "Double Cross",
+			"Geners":"Action",
+			"Description": "Velu, a gym instructor, refuses to help Duraipandi in his fight for social causes. Later, he changes his mind when he meets with an accident and learns that he is going to die soon.",
+			"Movieimg": "https://i.ytimg.com/vi/pvqC887mdgQ/maxresdefault.jpg"
+		},
+		{
+			"id": 19,
+			"Video_Id": "LnF6sEoHqjE",
+			"Movie_name": "Circle",
+			"Geners":"Action, Drama",
+			"Description": "Mano decides to get dead drunk on the eve of his ex-girlfriend's Kokilavani's wedding but gets thrown out of the wine shop.",
+			"Movieimg": "https://i.ytimg.com/vi/LnF6sEoHqjE/maxresdefault.jpg"
+		},
+		{
+			"id": 20,
+			"Video_Id": "tADxyBAfiyo",
+			"Movie_name": "Chandi",
+			"Geners":"Action, Thriller",
+			"Description": "Chandee, a strong-willed girl, along with Azad, vows to hunt down some corrupt politicians and police officers who are responsible for her family's death.",
+			"Movieimg": "https://i.ytimg.com/vi/tADxyBAfiyo/maxresdefault.jpg"
+		},
+		{
+			"id": 21,
+			"Video_Id": "EG-EJ7Sie2U",
+			"Movie_name": "Firangi",
+			"Geners":"Action, Comedy, Drama",
+			"Description": "In the 1920s, Mangatram \"Manga\" is an uneducated and jobless young man who dreams of joining the Police Force but fails at every attempt made to do so.",
+			"Movieimg": "https://english.cdn.zeenews.com/sites/default/files/2017/11/07/636772-firamghi55.jpg"
+		},
+		{
+			"id": 22,
+			"Video_Id": "EDE10UUnAzM",
+			"Movie_name": "RIDER",
+			"Geners":"Action",
+			"Description": "Chinnu and Kitty develop a deep bond at an orphanage in childhood. Now grown up, they are Soumya and Surya, both of whom are in search of their lost childhood friend who they love unconditionally. Will they find their happily ever after?",
+			"Movieimg": "https://i.ytimg.com/vi/EDE10UUnAzM/maxresdefault.jpg"
+		}
+	],
+	"Adveture Movie":[
+		{
+			"id": 1,
+			"Video_Id": "Gw77Nx4eBMc",
+			"Movie_name": "Mission Majnu",
+			"Geners":"Spy Thriller, Action Adventure, Drama",
+			"Description": "Set in the 1970s, an undercover Indian spy takes on a deadly mission to expose a covert nuclear weapons program in the heart of Pakistan.",
+			"Movieimg": "https://i.ytimg.com/vi/Gw77Nx4eBMc/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "C3RYpnLwWK8",
+			"Movie_name": "SANJEEVANI",
+			"Geners":"Adventure Thriller, Fantasy",
+			"Description": "Sanjeevini’s story is all about a group of mountaineers who get an offer from the Indian government to trace the hidden secrets behind an undiscovered mountain in a valley. Accepting the challenge, the group start their adventure trip to the mysterious mountain.",
+			"Movieimg": "https://i.ytimg.com/vi/C3RYpnLwWK8/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "NsJuAaBhHLE",
+			"Movie_name": "Kedarnath",
+			"Geners":"Romance Adventure, Drama",
+			"Description": "Kedarnath is a 2018 Indian Hindi-language romantic disaster film written and directed by Abhishek Kapoor.Featuring Sushant Singh Rajput and newcomer Sara Ali Khan in lead roles, it tells an inter-faith love story between a wealthy Hindu Brahmin girl whose family owns a lodge and shops near the historic Kedarnath Temple in the Uttarakhand mountains and a Muslim boy who is a 'pithoo' (porter) working in the same vicinity.",
+			"Movieimg": "https://i.ytimg.com/vi/ejlffMqcumc/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "YsasEgkfJJ8",
+			"Movie_name": "Mysterious Island",
+			"Geners":"Adventure Action, Fantasy",
+			"Description": "The Mysterious Island is a 2012 American science fantasy action-adventure film directed by Brad Peyton and produced by Beau Flynn, Tripp Vinson and Charlotte Huggins. A sequel to Journey to the Center of the Earth (2008), the film is based on Jules Verne's The Mysterious Island (1875).",
+			"Movieimg": "https://i.ytimg.com/vi/YsasEgkfJJ8/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "a7AUwt5Ne_o",
+			"Movie_name": "Mission GoldFish",
+			"Geners":"Action Thriller",
+			"Description": "A group of commandos set out on a mission to find and eliminate a mysterious terrorist mastermind called Gold Fish in the Kashmir valley.",
+			"Movieimg": "https://i.ytimg.com/vi/a7AUwt5Ne_o/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "5C-po4iZYfQ",
+			"Movie_name": "The Real Jackpot 2",
+			"Geners":"Action Comedy, Adventure",
+			"Description": "The movie story deals with Indrajith, an adventure junkie, joins Mayil Vahanam, who is the former director of Archaeological Survey of India.",
+			"Movieimg": "https://i.ytimg.com/vi/5C-po4iZYfQ/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "8WwLPep9xNg",
+			"Movie_name": "The Man Who Knew Infinity",
+			"Geners":"Drama",
+			"Description": "At the turn of the twentieth century, Srinivasa Ramanujan is a struggling and indigent citizen in the city of Madras in India working at menial jobs at the edge of poverty.",
+			"Movieimg": "https://i.ytimg.com/vi/8WwLPep9xNg/mqdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "g0q6v7mXoJw",
+			"Movie_name": "Hacker",
+			"Geners":"Crime Film, Thriller",
+			"Description": "The teenage girl witnessed the arrest of her father. As an adult, she become a hacker and assisted in national security. While on task she discovered assassination of a congressman.",
+			"Movieimg": "https://i.ytimg.com/vi/g0q6v7mXoJw/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "v9QpKYed3f4",
+			"Movie_name": "Puli",
+			"Geners":"Action Adveture",
+			"Description": "The movie story deals with Maru Dheeran a meek child brought up in an enslaved village coming under the oppressive rule of the blue-eyed monstrous 'Vedalam' group who burden the people with enormous taxes and kill on whim.",
+			"Movieimg": "https://i.ytimg.com/vi/ne0yK0Yfcqc/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "saHth7In6yw",
+			"Movie_name": "Thugs Of Amrica",
+			"Geners":"Comedy, Adventure",
+			"Description": "Kedarnath tricks his Guru into taking a group trip to the US to pursue his dream girl, whom he met in India.",
+			"Movieimg": "https://i.ytimg.com/vi/HZ15mba5ps0/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "M_Mh51IOJac",
+			"Movie_name": "Biskut",
+			"Geners":"Romance, Comedy",
+			"Description": "After the death of his father, Raja begins to work in his father's company. He, however, finds his life changed when he befriends Janaki who narrates stories that come true for him.",
+			"Movieimg": "https://i.ytimg.com/vi/VoDSd2qZfWc/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "6tQmXULpwJ0",
+			"Movie_name": "Player Ek Khiladi",
+			"Geners":"Action, Adveture",
+			"Description": "A mysterious man along with a young computer hacker tries to unveil a major government conspiracy which resulted in several bloody deaths.",
+			"Movieimg": "https://i.ytimg.com/vi/6tQmXULpwJ0/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "IPlhOx75HmA",
+			"Movie_name": "Maragatha Naanayam",
+			"Geners":"Fantasy Comedy",
+			"Description": "Maragadha Naanayam is a 2017 Indian Tamil-language fantasy comedy film written and directed by ARK Saravan in his directorial debut.",
+			"Movieimg": "https://i.ytimg.com/vi/IPlhOx75HmA/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "_FLus4tvT6o",
+			"Movie_name": "Malamaal Company",
+			"Geners":"Comedy",
+			"Description": "Marketed as a madcap comedy, 'Malamaal Company' is a Murali Krishna Mudidani directorial, with the concept developed by director Maruthi and music by Hari Gowra.",
+			"Movieimg": "https://i.ytimg.com/vi/_FLus4tvT6o/maxresdefault.jpg"
+		}
+	],
+	"Sports Movie":[
+		{
+			"id": 1,
+			"Video_Id": "6hi54tBWNSI",
+			"Movie_name": "MS Dhoni The UnTold Story",
+			"Geners":"Drama, Sports",
+			"Description": "M S Dhoni, a boy from Ranchi, aspires to play cricket for India. Though he initially tries to please his father by working for the Indian Railways, he ultimately decides to chase his dreams.",
+			"Movieimg": "https://cdn.movietalkies.com/wp-content/uploads/media/images/bollywood/reviews/2016/dhoni-1.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "Gy9QUrvnsPk",
+			"Movie_name": "Dangal",
+			"Geners":"Action Sports, Drama",
+			"Description": "Dangal is a 2016 Indian Hindi-language biographical sports drama film directed by Nitesh Tiwari and produced by Aamir Khan and Kiran Rao under Aamir Khan Productions with Siddharth Roy Kapur under The Walt Disney Company India.",
+			"Movieimg": "https://imageio.forbes.com/blogs-images/robcain/files/2017/05/Dangal-Hindi-poster.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "b0BQ8MOxCTE",
+			"Movie_name": "Lagaan",
+			"Geners":"Sports Drama",
+			"Description": "Lagaan: Once Upon a Time in India is a 2001 Indian Hindi-language sports drama film written and directed by Ashutosh Gowariker. The film was produced by Aamir Khan, who stars alongside debutant Gracy Singh and British actors Rachel Shelley and Paul Blackthorne.",
+			"Movieimg": "https://m.media-amazon.com/images/M/MV5BODA5OGJiZDUtZjcwYi00YjA2LWIwYTYtMzFlNTc1NWYyMmVkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "Grkp0RnoBiU",
+			"Movie_name": "Not Out",
+			"Geners":"Sport Thriller",
+			"Description": "Kousalya, a farmer's daughter, dreams of becoming an international cricketer and winning the Cricket World Cup. She faces various challenges as she pursues her dream with the support of her father.",
+			"Movieimg": "https://i.ytimg.com/vi/Grkp0RnoBiU/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "qky1I3a2e0Q",
+			"Movie_name": "Jersey",
+			"Geners":"Sport Drama, Romance",
+			"Description": "Arjun, a talented but failed cricketer, decides to return to cricket in his late thirties driven by the desire to represent the Indian cricket team and fulfil his son's wish for a jersey as a gift.",
+			"Movieimg": "https://i.ytimg.com/vi/wT2bPmmxGvE/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "WUDAU7qqUAE",
+			"Movie_name": "Kennedy Club",
+			"Geners":"Drama Sport",
+			"Description": "Savarimuthu, an ex-soldier, falls sick while training the women's kabaddi team of his village. Soon, a former student named Muruganandham is chosen to take his place.",
+			"Movieimg": "https://i.ytimg.com/vi/WUDAU7qqUAE/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "zXhwNQ70YYc",
+			"Movie_name": "Guru",
+			"Geners":"Sport Drama",
+			"Description": "Aditya, a boxer, sees potential in a vegetable vendor, Rameshwari, and decides to train her. However, the two do not get along due to the former's harsh training style and the latter's hostile nature.",
+			"Movieimg": "https://i.ytimg.com/vi/zXhwNQ70YYc/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "9JFxO--ThEo",
+			"Movie_name": "Badlapur Boys",
+			"Geners":"Drama Sport",
+			"Description": "Vijay grows up with a dream of bringing water to his village after his father's sacrifice goes in vain. So, he participates in a kabaddi tournament to attract the attention of the bureaucracy.",
+			"Movieimg": "https://i.ytimg.com/vi/_OKj54x6e1s/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "tneIQNfgzqM",
+			"Movie_name": "Paan Singh Tomar",
+			"Geners":"Action Thriller, Drama",
+			"Description": "Paan Singh Tomar, an athlete, wins gold medals at the Indian National Games seven times in a row. He is forced to become a dacoit when his mother is murdered and the police do not take any action.",
+			"Movieimg": "https://i.ytimg.com/vi/uokufis6XcM/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "UirK4tr1igM",
+			"Movie_name": "Godha",
+			"Geners":"Comedy, Sport",
+			"Description": "In a small village in Kerala, wrestling used to be a passion for the old generations but the younger generation has moved on to cricket. They frequently clash over Manayathuvayal, a large field where wrestling competitions used to happen years earlier.",
+			"Movieimg": "https://i.ytimg.com/vi/UirK4tr1igM/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "PbLQsrrtBcc",
+			"Movie_name": "Eetti",
+			"Geners":"Action, Sport",
+			"Description": "Pugazh (Adharvaa) is an athlete who lives in Thanjavur. He is a hurdles race champion and has won many awards - even beating the national record in a local sports meet.",
+			"Movieimg": "https://i.ytimg.com/vi/PbLQsrrtBcc/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "c7plApOQGbU",
+			"Movie_name": "Lakshya",
+			"Geners":"Sports, Drama",
+			"Description": "Pardhu is a gifted archer since his childhood. His grandfather notices it and spends all his earnings to admit him to Hyderabad's best archery academy.",
+			"Movieimg": "https://i.ytimg.com/vi/9XY4QUH4P80/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "FD6R4pPCPQs",
+			"Movie_name": "Mary kom",
+			"Geners":"Action, Sport Drama",
+			"Description": "The film stars Priyanka Chopra in the lead role, with newcomer Darshan Kumar and Sunil Thapa in supporting roles of her husband and mentor, respectively, and depicts Kom's journey of becoming a boxer to her victory at the 2008 World Boxing Championships in Ningbo.",
+			"Movieimg": "https://www.koimoi.com/wp-content/new-galleries/2020/05/mary-kom-box-office-heres-the-daily-breakdown-of-priyanka-chopras-2014-biopic-of-indian-olympic-boxer-001.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "KnsU4rAKiEg",
+			"Movie_name": "Soccer Fighters",
+			"Geners":"Sport, Action",
+			"Description": "A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.",
+			"Movieimg": "https://i.ytimg.com/vi/KnsU4rAKiEg/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "JfhmgOkd-nY",
+			"Movie_name": "A1 Express",
+			"Geners":"Sports Drama",
+			"Description": "Sundeep (Sanju) Naidu is a happy-go-lucky youngster in Yanam whose only ambition is to move to France.",
+			"Movieimg": "https://i.ytimg.com/vi/JfhmgOkd-nY/maxresdefault.jpg"
+		}
+	],
+	"History Movie":[
+		{
+			"id": 1,
+			"Video_Id": "HhwokSSvuo0",
+			"Movie_name": "RRR",
+			"Geners":"Historical drama, Action Adventure",
+			"Description": "RRR is a 2022 Indian Telugu-language epic action drama film directed by S. S. Rajamouli who wrote the film with V. Vijayendra Prasad. It is produced by D. V. V. Danayya of DVV Entertainment.",
+			"Movieimg": "https://cdn.tollywood.net/wp-content/uploads/2022/03/RRR-Movie-Review-and-Rating.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "pBfA8q_aBbQ",
+			"Movie_name": "Panipat",
+			"Geners":"Action Historical drama, History",
+			"Description": "Panipat is a 2019 Indian Hindi-language epic war drama film directed by Ashutosh Gowarikar.Starring Sanjay Dutt, Arjun Kapoor, and Kriti Sanon, it depicts the events that took place during the Third Battle of Panipat.",
+			"Movieimg": "https://i.ytimg.com/vi/zpXnmy-6w1g/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "U1vRmu8zMG8",
+			"Movie_name": "Mohenjo Daro",
+			"Geners":"Romance Adventure, Historical Drama",
+			"Description": "Mohenjo Daro is a 2016 Indian Hindi-language period action-adventure film written and directed by Ashutosh Gowariker.",
+			"Movieimg": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2016/08/mohenjo-daro-review-1.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "FvBHysyml1M",
+			"Movie_name": "Jodhaa Akbar",
+			"Geners":"Historical Drama, Action Romance",
+			"Description": "Jodhaa Akbar is a 2008 Indian epic historical drama or historical fiction film co-written, produced and directed by Ashutosh Gowariker.",
+			"Movieimg": "https://qqcdnpictest.mxplay.com/pic/dcef35d301b29b12f0940c4267276722/en/16x9/640x360/4eeb63842c222a58e6da72f4fd973803_1920x1080.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "pXYvnGFqGXU",
+			"Movie_name": "Kurukshetra",
+			"Geners":"Mythological war",
+			"Description": "The story is a reinterpretation of the war described in the Mahabharata Sanskrit epic, from Duryodhana's viewpoint.After losing to the Kauravas in a gamble, the Pandavas go into exile and endure hardship for a number of years. Upon their return, conflict arises over the dynastic succession leading to a war.",
+			"Movieimg": "https://i.ytimg.com/vi/pXYvnGFqGXU/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "of51ugIPrhk",
+			"Movie_name": "Bhaagamathie",
+			"Geners":"Thriller",
+			"Description": "Bhaagamathie is a 2020 Indian thriller film written and directed by G. Ashok. The films stars Anushka Shetty in the titular role while Jayaram (in his Telugu debut), Unni Mukundan, Murali Sharma, and Asha Sarath play other pivotal roles.",
+			"Movieimg": "https://i.ytimg.com/vi/of51ugIPrhk/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "7C4_E2HlBdk",
+			"Movie_name": "Mamangam",
+			"Geners":"Historical, Action",
+			"Description": "During the medieval fair of Mamangam, twelve-year-old warrior Chandroth Chanthunni becomes a legend after putting up a brave fight against the Zamorin.",
+			"Movieimg": "https://i.ytimg.com/vi/7C4_E2HlBdk/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "_Yd_wfkbGQg",
+			"Movie_name": "Kaashmora 2",
+			"Geners":"Historical, Drama",
+			"Description": "Chandramouli, a famous archaeologist, goes missing while on a research expedition. Anitha, a government officer, and Lavanya, Chandramouli's daughter, embark on an adventurous journey to find him.",
+			"Movieimg": "https://i.ytimg.com/vi/Utz6hV_fVYE/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "8-1biVKMzDw",
+			"Movie_name": "Kantara",
+			"Geners":"Historical, Thriller Drama",
+			"Description": "Kantara is a 2022 Indian Kannada-language action thriller film written and directed by Rishab Shetty, and produced by Vijay Kiragandur, under Hombale Films.",
+			"Movieimg": "https://www.91-cdn.com/hub/wp-content/uploads/2022/11/kantara-hindi-ott-netflix-feat.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "2BzMKRBSajY",
+			"Movie_name": "Jagadguru Adi Shankara",
+			"Geners":"Devotional",
+			"Description": "This Film is a life story of Jagadguru Adi Shankara, who was born in Kerala,  Agni the fire-god, says to Rudraksha Rushi that he has only 8 years of life. So, Rudraksha Rushi gives 24 years of life to Shankara from his span, at a cycle of every 8 years whenever Shankara's life is in trouble.",
+			"Movieimg": "https://i.ytimg.com/vi/2BzMKRBSajY/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "AKJZubSOXvE",
+			"Movie_name": "Kahani Mein Twist",
+			"Geners":"Comedy",
+			"Description": "Yaman, a tribal leader, arrives in Chennai to kidnap the woman whom he has sworn to marry. However, the woman's classmates pose as an obstacle in his plans.",
+			"Movieimg": "https://i.ytimg.com/vi/AKJZubSOXvE/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "zh6-zOiEcIs",
+			"Movie_name": "Gautamiputra Satakarni",
+			"Geners":"Epic Historical Action",
+			"Description": "Satakarni, the emperor of the Satavahana kingdom, dreams of uniting all the kingdoms in India and bringing them under one flag. However, he faces many challenges in his quest and must overcome them.",
+			"Movieimg": "https://i.ytimg.com/vi/zh6-zOiEcIs/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "scURORjNRXw",
+			"Movie_name": "Bicchugathi",
+			"Geners":"Action, History, Thriller",
+			"Description": "Set during the end of the 16th century in the region of Chitradurga, a strong and brave warrior rises above to protect his people from the horrific military rules and the enemies taking over his region.",
+			"Movieimg": "https://i.ytimg.com/vi/scURORjNRXw/maxresdefault.jpg"
+		}
+	],
+	"War Movie":[
+		{
+			"id": 1,
+			"Video_Id": "giXaGoCcygw",
+			"Movie_name": "Veer",
+			"Geners":"Action War, Romance",
+			"Description": "In 1875, Veer Pratap Singh (Salman Khan) is a Pindari prince and the son of the great Pindari warrior, Prithvi Singh (Mithun Chakraborty), who was known for his great battles to free India from the British rule.",
+			"Movieimg": "https://images004-a.erosnow.com/movie/3/1000593/img625352/6369063/1000593_6369063_98.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "dSmKiq3jUrA",
+			"Movie_name": "LOC Kargil",
+			"Geners":"War Action, Drama",
+			"Description": "LOC Kargil is a 2003 Indian Hindi-language historical war film based on the Kargil War fought between India and Pakistan, produced and directed by J. P. Dutta under his banner \"J. P. Films\". The film features an ensemble cast of Bollywood stars and music composed by Aadesh Shrivastava and Anu Malik, with the former composing the score and the latter composing the songs.",
+			"Movieimg": "https://i.ytimg.com/vi/dSmKiq3jUrA/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "BqEdPiXGsrw",
+			"Movie_name": "Baahubali: The Beginning",
+			"Geners":"War Action, Historical Drama",
+			"Description": "Baahubali: The Beginning is a 2015 Indian epic action film co-written and directed by S. S. Rajamouli, and produced by Shobu Yarlagadda and Prasad Devineni under Arka Media Works. The film was filmed in both Telugu and Tamil languages simultaneously.",
+			"Movieimg": "https://planetbollywood.com/wp/wp-content/uploads/2020/07/D0B3CB3A-B3B4-42BE-91BE-C0DDC9AC7516.jpeg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "gYoPkmjAK9U",
+			"Movie_name": "Baahubali 2: The Conclusion",
+			"Geners":"War Action, Historical Drama",
+			"Description": "Baahubali 2: The Conclusion is a 2017 Indian epic action film directed by S. S. Rajamouli, who co-wrote the film with V. Vijayendra Prasad. It was produced by Shobu Yarlagadda and Prasad Devineni under the banner Arka Media Works. It was shot in Telugu and Tamil simultaneously.",
+			"Movieimg": "https://i.ytimg.com/vi/-PsUQ3RtHAM/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "js4HJnv4Zu4",
+			"Movie_name": "Magadheera",
+			"Geners":"Action Drama, War",
+			"Description": "In 1609 AD, Mitravinda, a princess, and Kala Bhairava, the warrior that she loved, die. 400 years later, the warrior is reincarnated as Harsha, a motorcycle stuntman. He brushes hands with a girl and sparks fly as he begins to recall his past life.",
+			"Movieimg": "https://i.ytimg.com/vi/n9UxHQ1unn8/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "v9QpKYed3f4",
+			"Movie_name": "Puli",
+			"Geners":"Action Adveture",
+			"Description": "The movie story deals with Maru Dheeran a meek child brought up in an enslaved village coming under the oppressive rule of the blue-eyed monstrous 'Vedalam' group who burden the people with enormous taxes and kill on whim.",
+			"Movieimg": "https://i.ytimg.com/vi/ne0yK0Yfcqc/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "GHOBRAUgHm8",
+			"Movie_name": "Padmavati",
+			"Geners":"History, Action",
+			"Description": "Queen Padmavati is happily married to a Rajput ruler until a ruthless sultan, Alauddin Khalji, declares war on their kingdom due to his obsession with her.",
+			"Movieimg": "https://madaboutmoviez.files.wordpress.com/2018/02/padmaavat-banner.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "ZG_TRtxqqUY",
+			"Movie_name": "72 Hours",
+			"Geners":"War Darma",
+			"Description": "72 Hours Martyr Who Never Died is a 2019 Indian biographical drama film directed by Avinash Dhyani. The story is based on the life and times of rifleman Jaswant Singh Rawat, who fought against the encroaching Chinese army during the 1962 Sino-Indian War.",
+			"Movieimg": "https://i.ytimg.com/vi/ZG_TRtxqqUY/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "jUrkjGO6nMA",
+			"Movie_name": "Captain Vijay",
+			"Geners":"War Action",
+			"Description": "The movie story deals with Jagdish, an army captain, is back in Mumbai for a holiday to be with his parents and two sisters. They want him to get married and finds a bride Nisha for him.",
+			"Movieimg": "https://i.ytimg.com/vi/jUrkjGO6nMA/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "a7AUwt5Ne_o",
+			"Movie_name": "Mission GoldFish",
+			"Geners":"Action Thriller",
+			"Description": "A group of commandos set out on a mission to find and eliminate a mysterious terrorist mastermind called Gold Fish in the Kashmir valley.",
+			"Movieimg": "https://i.ytimg.com/vi/a7AUwt5Ne_o/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "UkMLQOMEIew",
+			"Movie_name": "World War 4",
+			"Geners":"Action War",
+			"Description": "A series of escalating incidents in Korea and the Middle East leads to greater conflict, placing the superpowers at one another's throats, and one family is caught up in the ever-growing conflict.",
+			"Movieimg": "https://i.ytimg.com/vi/UkMLQOMEIew/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "uITnldlcwTE",
+			"Movie_name": "War Thunder",
+			"Geners":"Historical War Drama Action",
+			"Description": "In 1941, 28 soldiers of the Red Army's 316th Rifle Division stationed near Moscow stop 54 German tanks for several days.",
+			"Movieimg": "https://qqcdnpictest.mxplay.com/pic/ab6e3e5fb21b8adb9130ccb1f624ebf5/en/16x9/640x360/test_pic1650866522726.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "NI9bdkWCAfo",
+			"Movie_name": "War On Terror Kandahar",
+			"Geners":"Action, War, Drama",
+			"Description": "Major Mahadevan and his unit undertake a mission to deal with an international terrorist organisation after a group of hardcore terrorists hijack a plane.",
+			"Movieimg": "https://i.ytimg.com/vi/NI9bdkWCAfo/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "vhG_FJox8LI",
+			"Movie_name": "Mere Hindustan Ki Kasam",
+			"Geners":"Action Thriller",
+			"Description": "The movie deals with the stance of the government officials on such a serious issue and how a belated decision will make a situation worse, in an already edgy circumstance.",
+			"Movieimg": "https://i.ytimg.com/vi/2KgaE9ImU48/maxresdefault.jpg"
+		}
+	],
+	"Biopic Movie":[
+		{
+			"id": 1,
+			"Video_Id": "SB7JK0kTy9Q",
+			"Movie_name": "Gandhi Godse - Ek Yudh",
+			"Geners":"Drama,Political",
+			"Description": "The fictional world where Mahatma Gandhi survives the attack on him and later meets Nathuram Godse in prison. Their conversation leads to a fiery debate between them.",
+			"Movieimg": "https://i.ytimg.com/vi/zfRsBEm2yrQ/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "H7JqAM8_Qeo",
+			"Movie_name": "The Accidental Prime Minister",
+			"Geners":"Political Drama",
+			"Description": "The Accidental Prime Minister is a 2019 Indian Hindi-language film directed by Vijay Ratnakar Gutte and written by Mayank Tewari, based on the 2014 memoir of the same name by Sanjaya Baru.",
+			"Movieimg": "https://i.ytimg.com/vi/H7JqAM8_Qeo/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "kplw8MNQ5TE",
+			"Movie_name": "Gangubai Kathiawadi",
+			"Geners":"Drama, Crime Film",
+			"Description": "Gangubai Kathiawadi is a 2022 Indian Hindi-language biographical crime drama film directed by Sanjay Leela Bhansali and produced by Bhansali and Jayantilal Gada. The film stars Alia Bhatt as the titular character with Ajay Devgn, Shantanu Maheshwari, Vijay Raaz, Indira Tiwari, Seema Pahwa and Varun Kapoor in pivotal roles.",
+			"Movieimg": "https://www.koimoi.com/wp-content/new-galleries/2022/03/box-office-gangubai-kathiawadi-enters-100-crore-club-001.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "GFtZ5D4nPvA",
+			"Movie_name": "Sanju",
+			"Geners":"Comedy Drama",
+			"Description": "Sanju is a 2018 Indian Hindi-language biographical film directed and edited by Rajkumar Hirani, written by Hirani and Abhijat Joshi and produced by Hirani and Vidhu Vinod Chopra under the banners Rajkumar Hirani Films and Vinod Chopra Films.",
+			"Movieimg": "https://www.globalvillagespace.com/wp-content/uploads/2018/06/Movie-Review-Sanju.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "czS8AAa5sSI",
+			"Movie_name": "Indu Sarkar",
+			"Geners":"Political Thriller",
+			"Description": "The film is set in the period of the emergency in India, i.e. the 19-month-long period from 1975 to 1977 when there was a state of emergency across the country.",
+			"Movieimg": "https://i.ytimg.com/vi/czS8AAa5sSI/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "OzUaOKLFulc",
+			"Movie_name": "Laal Singh Chaddha",
+			"Geners":"Romance Drama",
+			"Description": "Laal Singh Chaddha is a 2022 Indian Hindi-language comedy-drama film directed by Advait Chandan from a screenplay by Eric Roth and Atul Kulkarni.",
+			"Movieimg": "https://i.ytimg.com/vi/6Tg5BLRmTcg/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "wocj1GkK6Ko",
+			"Movie_name": "PM Narendra Modi",
+			"Geners":"Biographical Drama",
+			"Description": "Narendra Modi, who starts off as a poor tea-seller, rises up to several challenges in life and finally gets elected as the 14th prime minister of India.",
+			"Movieimg": "https://i.ytimg.com/vi/8ZjR2G2Qm8I/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "c80XVX4ckdQ",
+			"Movie_name": "Mahanati",
+			"Geners":"Biographical Drama",
+			"Description": "Mahanati is a film about the rise of the first female south Indian superstar - Savitri. Her story one of the most heart wrenching romantic tragedies of our times.",
+			"Movieimg": "https://i.ytimg.com/vi/c80XVX4ckdQ/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "zXhwNQ70YYc",
+			"Movie_name": "Guru",
+			"Geners":"Sport Drama",
+			"Description": "Aditya, a boxer, sees potential in a vegetable vendor, Rameshwari, and decides to train her. However, the two do not get along due to the former's harsh training style and the latter's hostile nature.",
+			"Movieimg": "https://i.ytimg.com/vi/zXhwNQ70YYc/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "KQbHQTX0IwY",
+			"Movie_name": "Mangal Pandey",
+			"Geners":"War Drama, Historical",
+			"Description": "Mangal Pandey and William Gordon become friends during a war in Afghanistan. But when the East India Company introduces a rifle that uses objectionable cartridges, Mangal Pandey rises in revolt.",
+			"Movieimg": "https://i.ytimg.com/vi/KQbHQTX0IwY/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "tneIQNfgzqM",
+			"Movie_name": "Paan Singh Tomar",
+			"Geners":"Action Thriller, Drama",
+			"Description": "Paan Singh Tomar, an athlete, wins gold medals at the Indian National Games seven times in a row. He is forced to become a dacoit when his mother is murdered and the police do not take any action.",
+			"Movieimg": "https://i.ytimg.com/vi/uokufis6XcM/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "FD6R4pPCPQs",
+			"Movie_name": "Mary kom",
+			"Geners":"Action, Sport Drama",
+			"Description": "The film stars Priyanka Chopra in the lead role, with newcomer Darshan Kumar and Sunil Thapa in supporting roles of her husband and mentor, respectively, and depicts Kom's journey of becoming a boxer to her victory at the 2008 World Boxing Championships in Ningbo.",
+			"Movieimg": "https://www.koimoi.com/wp-content/new-galleries/2020/05/mary-kom-box-office-heres-the-daily-breakdown-of-priyanka-chopras-2014-biopic-of-indian-olympic-boxer-001.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "GknluPYj4pU",
+			"Movie_name": "Veerappan",
+			"Geners":"Action, History, Crime",
+			"Description": "Veerappan, a teenager, trains under his smuggler uncle, Sevi Gounder, and becomes a notorious dacoit. When he learns about a covert operation to arrest him, he does his best to thwart the police.",
+			"Movieimg": "https://i.ytimg.com/vi/GknluPYj4pU/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "q21NTOk84kk",
+			"Movie_name": "Khwaabb",
+			"Geners":"Drama Sports",
+			"Description": "Sanjay, a runner, falls for Kiran, an ace swimmer. With the help of a coach, they both win coveted titles until Kiran unexplainably fails a drug test, necessitating Sanjay to come to her rescue.",
+			"Movieimg": "https://i.ytimg.com/vi/q21NTOk84kk/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "WczVepo7fKw",
+			"Movie_name": "Netaji Subhas Chandra Bose : The Forgotten Hero",
+			"Geners":"Historical Fiction, Drama, War",
+			"Description": "The film depicts the life of the Indian independence leader Subhas Chandra Bose in Nazi Germany: 1941–1943, and In Japanese-occupied Asia 1943–1945, and the events leading to the formation of Azad Hind Fauj.",
+			"Movieimg": "https://i.ytimg.com/vi/WczVepo7fKw/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "5iUEZEuwZN4",
+			"Movie_name": "George Reddy",
+			"Geners":"Action, Biographical",
+			"Description": "George Reddy, a student leader in Osmania University, decides to revolt against the injustice and economic inequalities in society.",
+			"Movieimg": "https://i.ytimg.com/vi/5iUEZEuwZN4/maxresdefault.jpg"
+		}
+	],
+	"Scifi Movie":[
+		{
+			"id": 1,
+			"Video_Id": "tFUPawuuefE",
+			"Movie_name": "Attack",
+			"Geners":"Thriller Action",
+			"Description": "Attack: Part 1 is a 2022 Indian Hindi-language science fiction action film directed by Lakshya Raj Anand, who co-wrote the film with Sumit Batheja and Vishal Kapoor, based on a story by John Abraham.",
+			"Movieimg": "https://i.ytimg.com/vi/Ma3Y-qekYos/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "ObDdvRLuvFs",
+			"Movie_name": "Tik Tik Tik",
+			"Geners":"Action Thriller, Science fication",
+			"Description": "To detonate the huge asteroid which is 7days away from earth with the help of nuclear missile set in space station, team of 6 members travel to space. The hurdles and consequences they faced in this operation will lead them to succeed in their mission is the rest of the story.",
+			"Movieimg": "https://i.ytimg.com/vi/ObDdvRLuvFs/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "DUlbGPSPY3o",
+			"Movie_name": "Time Machine",
+			"Geners":"Science fication, Action",
+			"Description": "Time Machine is a 2019 Tamil-language science fiction comedy film written and directed by R. Ravikumar in his debut feature. The film is jointly produced by Thirukumaran Entertainment and Studio Green,and features Vishnu Vishal and Miya in the lead while Karunakaran",
+			"Movieimg": "https://i.ytimg.com/vi/DUlbGPSPY3o/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "VaVqCbZFz5U",
+			"Movie_name": "24",
+			"Geners":"Action Romance, Science fication",
+			"Description": "24 is a 2016 Indian Tamil-language science fiction action drama film written and directed by Vikram Kumar. Based on the concept of time travel, the film stars actor Suriya in a triple role alongside Samantha Ruth Prabhu and Nithya Menen.",
+			"Movieimg": "https://i.ytimg.com/vi/_tFYytiKiKQ/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "lCOl2sAGB5Y",
+			"Movie_name": "2047: Virtual Revolution",
+			"Geners":"Action, Science Fiction",
+			"Description": "In a future mega city, where most people spend most time hooked up to a virtual world, an agent, employed by a corporation supplying virtual reality, is busy tracking down killers/terrorists, both in the virtual and real world.",
+			"Movieimg": "https://i.ytimg.com/vi/lCOl2sAGB5Y/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "om6NoIB4uyA",
+			"Movie_name": "Krrish 3",
+			"Geners":"Science Fiction, Action",
+			"Description": "The story follows Krishna Mehra, a.k.a. Krrish and his scientist father, who face an elaborate conspiracy orchestrated by the evil genius Kaal and his gang of mutants, led by the ruthless Kaya.",
+			"Movieimg": "https://i.ytimg.com/vi/aQlddfMrvCI/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "onzFUFp8230",
+			"Movie_name": "Mission Mangal",
+			"Geners":"Science Fiction, Drama",
+			"Description": "A group of scientists at ISRO battle in their personal and professional lives and work tirelessly towards their only motive, the Mars Orbiter Mission.",
+			"Movieimg": "https://i.ytimg.com/vi/q10nfS9V090/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "opdVtDidwow",
+			"Movie_name": "Astro",
+			"Geners":"Science Fiction, Drama",
+			"Description": "A billionaire and his team with a private space exploration program, returns to Earth with an abducted extraterrestrial from a newly discovered alien planet, with hidden secrets of his own from this world.",
+			"Movieimg": "https://i.ytimg.com/vi/opdVtDidwow/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "RLkaFV7C8q0",
+			"Movie_name": "Forensic",
+			"Geners":"Crime Thriller, Drama",
+			"Description": "A little boy smuggles organs of various animals at home from his father's meat shop and preserve them in jars under his bed. Upon discovering this, his father beats him. When he grows up, he kills his father.",
+			"Movieimg": "https://i.ytimg.com/vi/RLkaFV7C8q0/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "6bD5FjOtK7I",
+			"Movie_name": "Kee",
+			"Geners":"Science Fiction, Crime",
+			"Description": "Siddharth is a hacker who is blessed with a happy family life, which includes his father Ganeshwara Rao and mother Valli. An unexpected incident which happens in his life leads him to another hacker named Shivam.",
+			"Movieimg": "https://i.ytimg.com/vi/6bD5FjOtK7I/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "NgdU-uxo9Ys",
+			"Movie_name": "Short Circuit",
+			"Geners":"Science Fiction, Comedy",
+			"Description": "Short Circuit is a Gujarati movie about Samay, who falls in love with Seema, a TV anchor. Seema interviews a scientist and discovers his dangerous experiments.",
+			"Movieimg": "https://i.ytimg.com/vi/NgdU-uxo9Ys/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "h64O52tGhZA",
+			"Movie_name": "Intelligent",
+			"Geners":"Action, Thriller",
+			"Description": "A deputy superintendent of police (DSP) and his two subordinates are on a mission to hunt down a psychotic serial killer, whose murder patterns and method are always so flawless and ironclad.",
+			"Movieimg": "https://i.ytimg.com/vi/h64O52tGhZA/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "jmRBV5cnS9E",
+			"Movie_name": "Mission 2025",
+			"Geners":"Adveture, Science fiction",
+			"Description": "In 2025, the crew of the shuttle Atlantis are on a routine mission conducting experiments in deep space; however, things start to go horribly wrong.",
+			"Movieimg": "https://i.ytimg.com/vi/jmRBV5cnS9E/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "YhA-L3mhkbw",
+			"Movie_name": "Koi Mil Gaya",
+			"Geners":"Science fiction, Drama",
+			"Description": "Scientist Sanjay Mehra has created a computer from which he sends variations of the syllable om into space, hoping to attract extraterrestrial life.",
+			"Movieimg": "https://i.ytimg.com/vi/cN6zx4v9pbE/maxresdefault.jpg"
+		}
+	],
+	"Adult Movie":[
+		{
+			"id": 1,
+			"Video_Id": "gTnB6H-NQWk",
+			"Movie_name": "Kabir Singh",
+			"Geners":"Romance Drama, Action",
+			"Description": "Kabir Singh is a 2019 Indian Hindi-language romantic drama film written and directed by Sandeep Reddy Vanga and jointly produced by Bhushan Kumar and Krishan Kumar under T-Series Films and Murad Khetani and Ashwin Varde under Cine1 Studios.",
+			"Movieimg": "https://www.meinstyn.com/wp-content/uploads/2020/04/Kabir-Singh-Movie-Dialogues-Full-HD-Poster-Desktop-Wallpaper.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "mMiRRcVhgzM",
+			"Movie_name": "Doctor G",
+			"Geners":"Drama Comedy",
+			"Description": "Doctor G is a 2022 Indian Hindi-language comedy-drama film directed by Anubhuti Kashyap and produced by Junglee Pictures. It stars Ayushmann Khurrana, Rakul Preet Singh and Shefali Shah.",
+			"Movieimg": "https://i.ytimg.com/vi/mMiRRcVhgzM/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "jXN9Ot2bwa8",
+			"Movie_name": "Bhagmati Returns",
+			"Geners":"Horror Comedy, Drama",
+			"Description": "In the film, Priyamani plays a never seen before character while donning a dual role.  The actress looks charming and adds glamour and class to the film. However, there is more to her character than just glamour.",
+			"Movieimg": "https://i.ytimg.com/vi/jXN9Ot2bwa8/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "-8VN1Usk78A",
+			"Movie_name": "Kis Kisko Pyaar Karoon",
+			"Geners":"Romantic Comedy",
+			"Description": "Kis Kisko Pyaar Karoon is a 2015 Indian Hindi-language comedy film directed by Abbas Mustan. The film garnered controversy over keeping names on Hindus gods. Stand-up comedian Kapil Sharma made his Bollywood debut with this movie, as did actress Sai Lokur and supporting actress Jamie Lever.",
+			"Movieimg": "https://i.ytimg.com/vi/-8VN1Usk78A/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "a17YqU73tLs",
+			"Movie_name": "Aitraaz",
+			"Geners":"Romance Drama, Thriller",
+			"Description": "Aitraaz is a 2004 Indian Hindi-language romantic thriller film directed by Abbas–Mustan and produced by Subhash Ghai. It stars Akshay Kumar, Priyanka Chopra, Kareena Kapoor, Amrish Puri, Annu Kapoor and Paresh Rawal.",
+			"Movieimg": "https://i.ytimg.com/vi/a17YqU73tLs/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "T_Euf6_2gIA",
+			"Movie_name": "Jannat 2",
+			"Geners":"Drama, Romance",
+			"Description": "Jannat 2 is an Indian 2012 Hindi-language crime thriller film directed by Kunal Deshmukh and distributed by Fox Star Studios.",
+			"Movieimg": "https://qqcdnpictest.mxplay.com/pic/7a9305db0c24926883030bb8d5cc0a7a/en/16x9/640x360/23bbaada2597fc2b191c0b225755f7ad_1920x1080.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "uQ7CqjvueAU",
+			"Movie_name": "Kyaa Super Kool Hain Hum",
+			"Geners":"Comedy",
+			"Description": "Kyaa Super Kool Hain Hum is a 2012 Indian Hindi-language adult comedy film written and directed by Sachin Yardi. Produced by Ekta Kapoor, it is the second in Kyaa Kool Hain Hum series and again stars Riteish Deshmukh and Tusshar Kapoor.",
+			"Movieimg": "https://i.ytimg.com/vi/sShMwVNZktU/sddefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "53mSSI9qlHc",
+			"Movie_name": "Aashiqui 2",
+			"Geners":"Romance, Drama",
+			"Description": "Aashiqui 2 is a 2013 Indian Hindi-language romantic musical drama film directed by Mohit Suri and produced by Mukesh Bhatt.",
+			"Movieimg": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2020/04/26/Pictures/_37e8e594-87a6-11ea-81b1-a01beea4c212.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "xbZvBWWu9dA",
+			"Movie_name": "Badhaai Do",
+			"Geners":"Comedy, Drama",
+			"Description": "Badhaai Do is a 2022 Indian Hindi comedy drama film written by Suman Adhikary and Akshat Ghildial and directed by Harshavardhan Kulkarni.",
+			"Movieimg": "https://i.ytimg.com/vi/ACf4imlRc84/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "Nt3U3sZn5kw",
+			"Movie_name": "Humshakal",
+			"Geners":"Romance, Comedy",
+			"Description": "Humshakals is a 2014 Indian Hindi-language comedy film directed by Sajid Khan and produced by Vashu Bhagnani.",
+			"Movieimg": "https://i.ytimg.com/vi/Nt3U3sZn5kw/maxresdefault.jpg"
+		}
+	],
+	"Animation Movie":[
+		{
+			"id": 1,
+			"Video_Id": "eCeSDxINeNE",
+			"Movie_name": "Mahabharat",
+			"Geners":"Historical Drama",
+			"Description": "Mahabharat is considered as the greatest and the longest epic in world literature It has all the possible elements that a story could have - conflict, duty, sacrifice, heroism, truth, justice, romance, adventure, fantasy and relationships - making it truly an all-encompassing fascinating saga.",
+			"Movieimg": "https://i.ytimg.com/vi/eCeSDxINeNE/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "VUSAwCHuNLo",
+			"Movie_name": "Ice Age 2",
+			"Geners":"Comedy Animation, Children's film",
+			"Description": "This is a multi-platform video game, released in 2006. The game follows the same plot as the film of the same name where we play as a Scat and his adventure, and where we will have to fight or help different characters in our journeys.",
+			"Movieimg": "https://i.ytimg.com/vi/VUSAwCHuNLo/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "B_enxfU7a_o",
+			"Movie_name": "Return Of Hanuman",
+			"Geners":"Animation Adventure, Comedy",
+			"Description": "Return Of Hanuman is a wonderful movie in Hindi. The movie traces Lord Hanuman in the modern world as he fights against injustice and evil. The movie is a present-day version and has many other filmy characters.",
+			"Movieimg": "https://i.ytimg.com/vi/B_enxfU7a_o/maxresdefault.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "deghj8IxzPs",
+			"Movie_name": "Balkand",
+			"Geners":"Animation Devotional, Comedy",
+			"Description": "Bal Kand is a Indian Animation Series Produced By Dhumik Pravin Releasing it 1st Episode on 10 June 2021 in 3 Platforms YouTube, Vimeo, Dailymotion. Original from Childhood of Shree Ram",
+			"Movieimg": "https://i.ytimg.com/vi/deghj8IxzPs/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "fpiqdi1oOnc",
+			"Movie_name": "Tom and jerry cartoon",
+			"Geners":"Animation",
+			"Description": "Tom and Jerry is an American animated media franchise and series of comedy short films created in 1940 by William Hanna and Joseph Barbera. Best known for its 161 theatrical short films by Metro-Goldwyn-Mayer, the series centers on the rivalry between the titular characters of a cat named Tom and a mouse named Jerry.",
+			"Movieimg": "https://animaders.com/wp-content/uploads/2021/10/Tom-and-Jerry-Cartoon-A-Short-History-of-Americas-Favorite-Cartoon-Team-animader.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "aBTAoxqy530",
+			"Movie_name": "Krishna Aayo Natkhat Nandlal",
+			"Geners":"Animation Devotional, Comedy",
+			"Description": "Krishna Aayo Nathkhat Nandlal is a 2006 computer animated film. It features the voices of talented singers Alisha Chinai, Sunidhi Chauhan, Rajendra Shiv and others.",
+			"Movieimg": "https://i.ytimg.com/vi/aBTAoxqy530/mqdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "uVL_4ZC17Gk",
+			"Movie_name": "Shri Swaminarayan Charitra",
+			"Geners":"Animation Devotional",
+			"Description": "The movie begins with the heart touching montage India, the country rich with the most ancient culture in the world.",
+			"Movieimg": "https://www.baps.org/Data/Sites/1/Media/PageImages/12298/SwaminarayanCharitrapt1.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "kQ4AikYy1BE",
+			"Movie_name": "Toonpur Ka Super Hero",
+			"Geners":"Action Comedy, Adveture",
+			"Description": "Aditya (Ajay Devgn) a film superstar and his wife Priya (Kajol) have achieved all the success they have dreamed of. The children would rather have a father who is a 'real life' hero instead of a 'reel life' hero.",
+			"Movieimg": "https://i.ytimg.com/vi/kQ4AikYy1BE/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "Ta-x7-k6eCA",
+			"Movie_name": "Madagascar 2",
+			"Geners":"Comedy Adveture, Action",
+			"Description": "Alex, Marty, Melman and Gloria find themselves in Africa, where Alex meets his long-lost parents. Meanwhile, Makunga, his father's rival, will stop at nothing to be the king of the jungle.",
+			"Movieimg": "https://images6.alphacoders.com/112/1120914.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "Gvi4uUj9o18",
+			"Movie_name": "Bal Ganesh",
+			"Geners":"Animation",
+			"Description": "Shiva and Parvati live on Mount Kailash. One day, Parvati asks Nandi to guard the palace and prevent any visitors from coming in while she takes her bath.",
+			"Movieimg": "https://i.ytimg.com/vi/Gvi4uUj9o18/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "fr2miqP6qdE",
+			"Movie_name": "Terra Willy Unexplored Planet",
+			"Geners":"Animation, Science fiction, Adveture",
+			"Description": "Upon the destruction of their ship, Willy is separated from his parents. He lands on a wild and unexplored planet and with the help of Buck, a survival robot, he will have to hold until the arrival of a rescue mission.",
+			"Movieimg": "https://i.ytimg.com/vi/fr2miqP6qdE/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "tuw9Pi5cyko",
+			"Movie_name": "Delhi Safari",
+			"Geners":"Adventure, Animation",
+			"Description": "The film starts with Yuvraj saying that he lost his father, Sultan in the morning, but doesn't want to lose his home at any cost.",
+			"Movieimg": "https://i.ytimg.com/vi/VRv7hcOyrPQ/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "DKkluDxHEdc",
+			"Movie_name": "The Wild Life",
+			"Geners":"Adventure, Animation",
+			"Description": "Mak, a parrot that harbours dreams of exploring the world, has a chance encounter with a human, Robinson Crusoe, and together with other animals, they explore the world around them.",
+			"Movieimg": "https://i.ytimg.com/vi/DKkluDxHEdc/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "MEeDYtDUNjY",
+			"Movie_name": "Two Tails",
+			"Geners":"Comedy, Animation",
+			"Description": "A beaver and a cat become best friends and set out to rescue their other friends, who have been abducted by aliens.",
+			"Movieimg": "https://i.ytimg.com/vi/MEeDYtDUNjY/maxresdefault.jpg"
+		},
+		{
+			"id": 15,
+			"Video_Id": "yGLvOObL9lc",
+			"Movie_name": "Jumbo",
+			"Geners":"Animation, Children's film",
+			"Description": "The film starts with actor Akshay Kumar singing the song \"Everything's Gonna Be All Right\" which is shown by him to a kid in a movie theater.",
+			"Movieimg": "https://i.ytimg.com/vi/yGLvOObL9lc/maxresdefault.jpg"
+		},
+		{
+			"id": 16,
+			"Video_Id": "b8PoJIDTuVM",
+			"Movie_name": "Ghatothkach Master of Magic",
+			"Geners":"Animation, Children's film",
+			"Description": "Ghatothkach - Master Of Magic is a famous Animation film that shows adventurous journey of Ghatothkach, the son of Bhima, blessed with extra-ordinary powers. Watch some never seen before action scenes in this wonderful Animation movie. Have a great time.",
+			"Movieimg": "https://i.ytimg.com/vi/b8PoJIDTuVM/maxresdefault.jpg"
+		}
+	],
+	"Trailers":[
+		{
+			"id": 1,
+			"Video_Id": "K-EMszLvRIQ",
+			"Movie_name": "Bholaa",
+			"Geners":"Action, Drama",
+			"Description": "n the film, after ten years of imprisonment, Bholaa is finally going home to meet his young daughter. However, his journey is not so simple as he soon faces a pathway full of crazy obstacles, with death lurking around every corner.",
+			"Movieimg": "https://i.ytimg.com/vi/K-EMszLvRIQ/maxresdefault.jpg"
+		},
+		{
+			"id": 2,
+			"Video_Id": "E7APBBJG34E",
+			"Movie_name": "Gumraah",
+			"Geners":"Crime,Thriller",
+			"Description": "The murder investigation of a young man , takes an unexpected turn when the cops discover that the prime suspect has a lookalike.",
+			"Movieimg": "https://i.ytimg.com/vi/E7APBBJG34E/maxresdefault.jpg"
+		},
+		{
+			"id": 3,
+			"Video_Id": "lGAKZ6L9IVo",
+			"Movie_name": "Bheed",
+			"Geners":"Thriller",
+			"Description": "Bheed is an account of the largest migration in India after the partition in 1947 which happened during the lockdown of 2020.",
+			"Movieimg": "https://images.news18.com/ibnlive/uploads/2023/03/bheed-movie-review-16795444283x2.jpg"
+		},
+		{
+			"id": 4,
+			"Video_Id": "xBb_VZqs8fs",
+			"Movie_name": "Kisi Ka Bhai Kisi Ki Jaan",
+			"Geners":"Action, Comedy, Drama",
+			"Description": "The eldest brother who refuses to marry since he believes it may create disharmony in his big family. His brothers, who've already found partners, come together to find a match for him",
+			"Movieimg": "https://i.ytimg.com/vi/xBb_VZqs8fs/maxresdefault.jpg"
+		},
+		{
+			"id": 5,
+			"Video_Id": "tB6J9GDiBB4",
+			"Movie_name": "Mrs Undercover",
+			"Geners":"Action, Comedy",
+			"Description": "A simple Indian housewife who is in fact a special undercover agent is called back on the job after 10 years of being undercover to take down a terrifying, psycho killer while maintaining her parallel life of a housewife.",
+			"Movieimg": "https://i.ytimg.com/vi/tB6J9GDiBB4/maxresdefault.jpg"
+		},
+		{
+			"id": 6,
+			"Video_Id": "vbSGPIS2_ao",
+			"Movie_name": "Shehzada",
+			"Geners":"Comedy, Adventure",
+			"Description": "Shehzada is an upcoming Indian Hindi-language action drama film directed by Rohit Dhawan and produced by T-Series Films, Haarika & Hassine Creations, Geetha Arts, Brat Films and Kartik Aaryan.",
+			"Movieimg": "https://i.ytimg.com/vi/vbSGPIS2_ao/maxresdefault.jpg"
+		},
+		{
+			"id": 7,
+			"Video_Id": "vqu4z34wENw",
+			"Movie_name": "Pathaan",
+			"Geners":"Action Thriller, Crime Flim Adventure",
+			"Description": "Pathaan is an upcoming Indian Hindi-language spy action-thriller film written and directed by Siddharth Anand and produced by Aditya Chopra. The film stars Shah Rukh Khan, Deepika Padukone and John Abraham. It is the fourth installment in the YRF Spy Universe, and is Khan's first lead role since Zero.",
+			"Movieimg": "https://i.ytimg.com/vi/vqu4z34wENw/maxresdefault.jpg"
+		},
+		{
+			"id": 8,
+			"Video_Id": "SB7JK0kTy9Q",
+			"Movie_name": "Gandhi Godse - Ek Yudh",
+			"Geners":"Drama,Political",
+			"Description": "The fictional world where Mahatma Gandhi survives the attack on him and later meets Nathuram Godse in prison. Their conversation leads to a fiery debate between them.",
+			"Movieimg": "https://i.ytimg.com/vi/zfRsBEm2yrQ/maxresdefault.jpg"
+		},
+		{
+			"id": 9,
+			"Video_Id": "Feu56Usia-A",
+			"Movie_name": "Varisu",
+			"Geners":"Action Drama",
+			"Description": "Varisu is a 2023 Indian Tamil-language action drama film directed by Vamshi Paidipally who co-wrote it with Hari and Ashishor Solomon. Produced jointly by Dil Raju and Sirish under the banner of Sri Venkateswara Creations and PVP Cinema, the film stars Vijay and Rashmika Mandanna.",
+			"Movieimg": "https://i.ytimg.com/vi/Feu56Usia-A/maxresdefault.jpg"
+		},
+		{
+			"id": 10,
+			"Video_Id": "Cx_Dtwn4ayw",
+			"Movie_name": "Tu Jhoothi Main Makkaar",
+			"Geners":"Romance, Comedy",
+			"Description": "Tu Jhoothi Main Makkaar is an upcoming Indian Hindi-language romantic comedy film directed by Luv Ranjan. The film is written by Ranjan and Rahul Mody, and produced by Luv Films and T-Series Films. It stars Shraddha Kapoor and Ranbir Kapoor, alongside Dimple Kapadia and Boney Kapoor.",
+			"Movieimg": "https://i.ytimg.com/vi/Cx_Dtwn4ayw/maxresdefault.jpg"
+		},
+		{
+			"id": 11,
+			"Video_Id": "DuWOpHkG49s",
+			"Movie_name": "Vash",
+			"Geners":"Psychological, Thriller",
+			"Description": "Janki Bodiwala is appearing in many films nowadays and is gaining popularity. While her much-awaited rom-com ‘Naadi Dosh‘ is yet to release on the big screen (17th June 2022), the actress has shared the poster of her upcoming gujarati movie ‘Vash’.",
+			"Movieimg": "https://i.ytimg.com/vi/DuWOpHkG49s/maxresdefault.jpg"
+		},
+		{
+			"id": 12,
+			"Video_Id": "lS1KScfdr70",
+			"Movie_name": "Selfiee",
+			"Geners":"Comedy, Drama",
+			"Description": "A snippet from Selfiee shows Akshay Kumar dressed in a sharp charcoal coloured suit alongside fellow Bollywood actor Emraan Hashmi in a red and white plaid shirt dancing and clicking a selfie to a song of the titular name.",
+			"Movieimg": "https://i.ytimg.com/vi/lS1KScfdr70/maxresdefault.jpg"
+		},
+		{
+			"id": 13,
+			"Video_Id": "Gw77Nx4eBMc",
+			"Movie_name": "Mission Majnu",
+			"Geners":"Spy Thriller, Action",
+			"Description": "Set in the 1970s, an undercover Indian spy takes on a deadly mission to expose a covert nuclear weapons program in the heart of Pakistan.",
+			"Movieimg": "https://i.ytimg.com/vi/Gw77Nx4eBMc/maxresdefault.jpg"
+		},
+		{
+			"id": 14,
+			"Video_Id": "qdBt_g2ST40",
+			"Movie_name": "Chhatriwali",
+			"Geners":"Drama, Comedy",
+			"Description": "Chhatriwali is a 2023 Indian Hindi-language Romantic comedy film directed by Tejas Deoskar and produced by Ronnie Screwvala. The film stars an Rakul Preet Singh, Sumeet Vyas, Satish Kaushik, Dolly Ahluwalia and Rajesh Tailang.",
+			"Movieimg": "https://i.ytimg.com/vi/qdBt_g2ST40/maxresdefault.jpg"
+		}
+	],
+	"Sports Tv":[
+		{
+			"id":1,
+			"Channel_Name":"JIO CRICKET HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports1.png?alt=media&token=ab2e06f5-5f49-4a40-b86d-bf1e3086fcf8",
+			"Description":"The new app design helps in easier content and channel discovery, and has introduced new sections as well, based on genres. Furthermore, the update introduces a new channel called Jio Cricket HD which will live stream all India cricket matches moving forward."
+		},
+		{
+			"id":2,
+			"Channel_Name":"JIO CRICKET ENGLISH HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports2.png?alt=media&token=4f7d833d-d74c-42b6-a999-f2c716756521",
+			"Description":"The new app design helps in easier content and channel discovery, and has introduced new sections as well, based on genres. Furthermore, the update introduces a new channel called Jio Cricket HD which will live stream all India cricket matches moving forward."
+		},
+		{
+			"id":3,
+			"Channel_Name":"TEN 1 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports3.png?alt=media&token=ef31064f-60b9-4b9f-b760-4faf73028d4c",
+			"Description":"Sony Ten 1 HD broadcasts events from the World Athletics Championships, Asian Games, Commonwealth Games and Sukma Games. Sony Ten 1 HD programming schedule also consists of live coverage of the tennis, rallying, horse racing, beach volleyball events and basketball."
+		},
+		{
+			"id":4,
+			"Channel_Name":"TEN 2 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports4.png?alt=media&token=6afccf2a-c099-481c-977e-14a46ae19128",
+			"Description":"Sony Ten 2 HD broadcasts football matches from European football leagues and events of biggest MMA promotion in the world. Advertising through Sony Ten 2 HD is an effective advertising method in the television media type."
+		},
+		{
+			"id":5,
+			"Channel_Name":"TEN 3 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports5.png?alt=media&token=d0805a34-0265-4900-8d07-93681d87129c",
+			"Description":"Sony Ten 3 HD airs cricket matches from the Pakistan, Sri Lanka, England, Australia and South Africa boards. It also broadcasts football matches. Advertising in Sony Ten 3 HD channel provides you with the opportunity to spell out extensive influence over your targeted audience base which in turn delivers you to get the maximum out of your branding budget."
+		},
+		{
+			"id":6,
+			"Channel_Name":"TEN 1",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports6.png?alt=media&token=56a01c68-0c0e-43a6-8780-dae69cdb42b2",
+			"Description":"An English-language channel that broadcasts events from the World Athletics Championships, Asian Games, Commonwealth Games and Sukma Games. Its programming schedule also consists on live coverage of tennis, rally, horse racing, beach volleyball events and basketball"
+		},
+		{
+			"id":7,
+			"Channel_Name":"TEN 2",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports7.png?alt=media&token=ee4bedcb-cce4-411b-bc20-335df0f30343",
+			"Description":"Catch world-class sporting action from around the globe on Sony Sports Ten 2 HD as we bring you coverage of UEFA Champions League, Europa League, Serie A, FA Cup, and International football throughout the calendar along with bone-crushing action from the octagonal ring of UFC and much more."
+		},
+		{
+			"id":8,
+			"Channel_Name":"TEN 3",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports8.png?alt=media&token=8933e372-5e0c-4a95-8339-c87e794ba355",
+			"Description":"If you are looking for riveting sporting action in your favorite language Hindi, you have arrived at the right stop! At Sony Sports Ten 3 HD, we bring you coverage from the world of cricket, NBA, WWE, Pro Volleyball League, and much more in the quintessential Indian language of Hindi."
+		},
+		{
+			"id":9,
+			"Channel_Name":"JIO SPORT HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports9.png?alt=media&token=c7c8a0cd-e183-4c78-8830-63be4ef98de9",
+			"Description":"JIO India planned to replace the troubled Channel V India with JIO Sports 1 Kannada on 16 November 2017, but the delay in regulatory approval meant the plan was postponed. Later, JIO India replaced Channel V into the current iteration of Star Sports 3 on 15 September 2018."
+		},
+		{
+			"id":10,
+			"Channel_Name":"JIO FOOTBALL HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports10.png?alt=media&token=cc091ea9-8202-4d74-9665-c37639008bcf",
+			"Description":"Star Sports became Star Sports 1 Star Cricket became Star Sports 3, a Hindi language channel ESPN became Star Sports 4, a Tamil language channel; Star Cricket HD and ESPN HD became Star Sports HD1 and HD2 respectively."
+		},
+		{
+			"id":11,
+			"Channel_Name":"JIO FOOTBALL 1 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports11.png?alt=media&token=82112c37-483d-444f-a018-93ba4c2deb72",
+			"Description":"Star India planned to replace the troubled Channel V India with Star Sports 1 Kannada on 16 November 2017, but the delay in regulatory approval meant the plan was postponed. Later, Star India replaced Channel V into the current iteration of Star Sports."
+		},
+		{
+			"id":12,
+			"Channel_Name":"JIO FOOTBALL 2 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports12.png?alt=media&token=dac35bd8-76d2-4bf5-8624-eec8d38ad58d",
+			"Description":"The channel was broadcast across Asia, including India, as with the footprint of AsiaSat 7. Star TV has since regionalized the channel with several versions. Later, ESPN joined the region as a competitor to Star Sports."
+		},
+		{
+			"id":13,
+			"Channel_Name":"JIO FOOTBALL 3 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports13.png?alt=media&token=5a0e5760-f49f-4c59-9109-2250d077625a",
+			"Description":"Football usually takes a distant second spot in Indian on-ground sponsorship revenue (around $20 million in 2019).[3] Television audience figures remain highly important in India (though branded sports networks are pay-television broadcasters."
+		},
+		{
+			"id":14,
+			"Channel_Name":"DD SPORTS",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports14.png?alt=media&token=1bf6bc74-7446-40c6-ae00-64652c9d12e2",
+			"Description":"DD Sports telecast all Test, ODI & Twenty20 International cricket matches played by India Men and women Cricket Team and this Live telecast only available on DD Free Dish DTH and on DD Terrestrial network, this live feed is not available on private dth and cable operator lines"
+		},
+		{
+			"id":15,
+			"Channel_Name":"JIO FOOTBALL 5 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports15.png?alt=media&token=4883653a-a253-4e95-9bf1-782fe2f8c1b9",
+			"Description":"tar Sports, Sony Sports or the Sports18 networks, as well as online streaming sites/mobile applications - be it Disney+ Hotstar, SonyLIV, JioTV or JioCinema."
+		},
+		{
+			"id":16,
+			"Channel_Name":"JIO FOOTBALL 6 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports16.png?alt=media&token=cc81a985-0ac9-4e39-90ba-69aabe55333a",
+			"Description":"Star Sports brand: Star Sports became Star Sports 1 Star Cricket became Star Sports 3, a Hindi language channel; ESPN became Star Sports 4, a Tamil language channel Star Cricket HD and ESPN HD became Star Sports HD1 and HD2 respectively."
+		},
+		{
+			"id":17,
+			"Channel_Name":"JIO FOOTBALL 7 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports17.png?alt=media&token=be77639a-00d3-4902-b237-38201988136a",
+			"Description":"Star Sports Select HD1 showcases the best of live International sports programs in HD. Watchlist. © 2023 STAR. All Rights Reserved. HBO, Home Box Office and all related channel and programming logos are service marks of, and all related programming visuals and elements are the property of, Home Box Office."
+		},
+		{
+			"id":18,
+			"Channel_Name":"JIO FOOTBALL 8 HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports18.png?alt=media&token=290ee347-63f6-402a-890b-a8492702458c",
+			"Description":"Star Sports Select 2 is a popular television sports channel owned by Star Sports which is an Indian multinational sports channel.It provides live coverage of various sports in India and overseas where Gautam Thakar is the CEO of Star Sports. Check Star Sports Select 2 Football Coverage Details for Premier league 2021-22 Live Stream."
+		},
+		{
+			"id":19,
+			"Channel_Name":"JIO FOOTBALL HINDI HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/sports19.png?alt=media&token=9549df38-e355-4f22-b71e-fa1d116b0c26",
+			"Description":"The matches that will be streaming on the channel are the India national football team, Intercontinental Cup, Indian Super League, I-League (2017-19), Premier League, AFC Asian Cup, AFC Asian Cup qualification, Durand Cup."
+		}
+	],
+	"Entertainment Tv":[
+		{
+			"id":1,
+			"Channel_Name":"Sony Max",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/entertainment1.png?alt=media&token=b26980ac-1bc8-4688-beb0-a02ce5ec8943",
+			"Description":"Its main audience attraction, other than Hindi-language movies, was the Twenty20 cricket tournament Indian Premier League (IPL), which the channel had been broadcasting since the tournament's launch in 2008 till 2017, after which it sold the broadcasting rights to Star Sports."
+		},
+		{
+			"id":2,
+			"Channel_Name":"Sony Max2",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/entertainment2.png?alt=media&token=a1b21114-22c6-4ea0-9aae-08193963d4dd",
+			"Description":"Sony Max 2 is an Indian pay television channel owned by Culver Max Entertainment and launched in 2014. It is the second Indian channel launched by Sony which is focused solely on old Hindi-language movie broadcasts, being the sister channel of Sony Max."
+		},
+		{
+			"id":3,
+			"Channel_Name":"And Pictures HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/entertainment3.png?alt=media&token=67b3c86e-a1a4-42e4-a8b2-52e51481029c",
+			"Description":"& pictures is a Hindi satellite movie channel in India based in Mumbai. The channel is owned by Zee Entertainment Enterprises which is a part of Essel Group. It is the first channel of Zee Entertainment Enterprises under the new brand &."
+		},
+		{
+			"id":4,
+			"Channel_Name":"Zee Cinema",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/entertainment4.png?alt=media&token=4403f13b-c945-48d2-bb97-69c61496f3cf",
+			"Description":"Zee Cinema Advertising is one of the most effective, successful, advertising platforms. Zee Cinema advertising is the most effective method of reaching people. Branding through this Zee Cinema would help you improve sales and reach the widest possible audience."
+		},
+		{
+			"id":5,
+			"Channel_Name":"B4U Movies",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/entertainment5.png?alt=media&token=37cab8b1-dbcd-4133-945d-4794465bfc8d",
+			"Description":"There are 4 different versions of the channel available in the UK, North America, the Middle East and South Asia. Each version of the channel produces a quantity of local programming which reflects the culture and tastes of the local population of the Indian Diaspora."
+		},
+		{
+			"id":6,
+			"Channel_Name":"Zee Action",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/entertainment6.png?alt=media&token=63f86edd-1b9d-42c7-9b53-fd36ac7741b5",
+			"Description":"Zee Action is Hindi language movie channel primarily featuring action movies. This is owned by Zee Entertainment Enterprises. Advertising on Zee Action channel is one of the most remarkable approaches to target your audience."
+		},
+		{
+			"id":7,
+			"Channel_Name":"Color Cineplex",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/entertainment7.png?alt=media&token=3c98f308-7cb1-4254-866b-74d7b6a0f41a",
+			"Description":"Colors Cineplex is an Indian pay television channel owned by Viacom 18. Advertising in Colors Cineplex can drive sales for your brand as well as boost your brand identification. This channel is the most affordable advertising medium which helps to popular your product."
+		}
+	],
+	"Tv Serials":[
+		{
+			"id":1,
+			"Channel_Name":"Color HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/tvserial1.png?alt=media&token=80d17ec1-db80-484f-9413-a30528b26e3b",
+			"Description":"Colors TV is the Hindi language India general entertainment channel owned by Viacom 18. The network's programming consists of family dramas, comedies, youth-oriented reality shows, shows on crime, and television films. Approximate viewership of Colors TV 150k per week."
+		},
+		{
+			"id":2,
+			"Channel_Name":"Sony HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/tvserial2.png?alt=media&token=317399a3-7427-4b26-84d8-fbe4b4f3a166",
+			"Description":"Sony HD Advertising is one of the most effective, successful, advertising platforms. Sony HD advertising is the most effective method of reaching people."
+		},
+		{
+			"id":3,
+			"Channel_Name":"Zee Anmol",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/tvserial3.png?alt=media&token=5c81ca21-e09c-4a06-b2a6-132536a51b70",
+			"Description":"Zee Anmol is an Indian free-to-air TV channel launched by Zee Network. The channel along with showing original content also airs reruns of recently ended or continuing popular drama series on its sister channel Zee TV."
+		},
+		{
+			"id":4,
+			"Channel_Name":"Sony SAB",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/tvserial4.png?alt=media&token=fc1fa58a-85b2-40ff-98d0-4a33fd3d4547",
+			"Description":"Sony SAB formerly SAB TV stylized as SONY SAB is an Indian pay television channel owned by Sony Pictures Networks and specializing in comedy shows and soap. At first, it was launched as a Hindi-language comedy channel. Tarak Mehta Ka Ooltah Chashmah is its longest-running and one of its flagship shows which have been on air since 2008."
+		},
+		{
+			"id":5,
+			"Channel_Name":"Sony Pal",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/tvserial5.png?alt=media&token=b6140f31-f981-4aed-b588-86fd6c66cf51",
+			"Description":"Sony Pal is an Indian general entertainment channel. It was initially aimed at women with women-oriented Hindi-language programming, now focused on family-oriented programming mostly running existing or older shows of Sony TV"
+		},
+		{
+			"id":6,
+			"Channel_Name":"And Tv HD",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/tvserial6.png?alt=media&token=1e082de9-1a0f-4a44-9cf2-8262d20932a8",
+			"Description":"And TV (&TV) HD is a Hindi language entertainment channel owned by Zee Entertainment Enterprises. Launch as a general entertainment channel from the Essel group. This channel is the most affordable advertising medium which helps to popular your product."
+		},
+		{
+			"id":7,
+			"Channel_Name":"Colors Ristey",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/tvserial7.png?alt=media&token=1702c7db-8d5a-4760-a4be-6256a33261a0",
+			"Description":"Colors Rishtey is an Indian general entertainment channel that broadcasts re-runs of programming from the Colors TV. The channel started original production of its shows as well. Catering to the entire South Asian community and offering varied content."
+		}
+	],
+	"News Tv":[
+		{
+			"id":1,
+			"Channel_Name":"India Today",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/news1.png?alt=media&token=47f8220a-f1c3-4501-9132-b4bed13f55e3",
+			"Description":"India Today is a 24-hour English language television network based in Noida, Uttar Pradesh that carries news, current affairs, and business programming in India. The channel is owned by TV Today Network Ltd. which is a part of Living Media."
+		},
+		{
+			"id":2,
+			"Channel_Name":"CNN",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/news2.png?alt=media&token=42b942e0-c9eb-4322-aca7-1ee24f4e447a",
+			"Description":"The term TV advertising refers to the conveyance of a message, generally to promote a product or service. TV advertising provides you the option to display and convey to a large audience about your organization, product, or service."
+		},
+		{
+			"id":3,
+			"Channel_Name":"ABP News India",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/news3.png?alt=media&token=3a21081b-132e-4508-93e8-543bcdcdb139",
+			"Description":"ABP News is an Indian Hindi news channel owned by ABP Group. It is free to air. It was formerly known as STAR News before being acquired by ABP Group. ABP Live is an Indian English news website owned by ABP Group. ABP News is one of the top 5 channels in the Hindi-News genre."
+		},
+		{
+			"id":4,
+			"Channel_Name":"Aaj Tak",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/news4.png?alt=media&token=989a57c4-2a18-42df-9b35-a8b5c7029cb4",
+			"Description":"Aaj Tak is a part of India Today. This channel is very popular on the all-news channel. This channel provides the fact and figure of regional National News and affairs, according to BARC, This channel is one of the best channels in the top 5. In India, Aaj Tak is free to air."
+		},
+		{
+			"id":5,
+			"Channel_Name":"ABP Asmita",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/news5.png?alt=media&token=8780f43d-53a7-43bf-839b-b745812fe0c0",
+			"Description":"ABP Asmita is a Gujarati news channel based in Gujarat, India. ABP Asmita News is owned by the ABP NetworkGroup. The Channel was created to reach local regions of Gujarat with the state, national and global news and information."
+		},
+		{
+			"id":6,
+			"Channel_Name":"TV9 Gujarati",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/news6.png?alt=media&token=3c2ba03c-7928-4fad-9646-86601db4582e",
+			"Description":"TV9 Gujarati News is an Indian free to air 24-hour regional news channel broadcasting in the Gujarati language. It operates from Ahmedabad, Gujarat."
+		},
+		{
+			"id":7,
+			"Channel_Name":"Sandesh News",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/news7.png?alt=media&token=d78635c8-c449-42b6-a5ff-50f0071eb668",
+			"Description":"Sandesh News Advertising is one of the most effective, successful, advertising platforms. Sandesh News advertising is the most effective method of reaching people. Branding through this Sandesh News would help you improve sales and reach the widest possible audience."
+		}
+	],
+	"Kids Tv":[
+		{
+			"id":1,
+			"Channel_Name":"Nick Hindi",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/kids1.png?alt=media&token=584dbfc3-2824-4b25-82b9-d46487cd2906",
+			"Description":"Nick is an American pay television channel as the first cable channel for children. It is owned by Viacom through its domestic networks division and is based in New York City. Advertising through Nick is an effective advertising method in the television media type."
+		},
+		{
+			"id":2,
+			"Channel_Name":"Pogo Hindi",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/kids2.png?alt=media&token=f41fe85d-3e11-4829-a3f6-a06fa8607b43",
+			"Description":"Pogo is an Indian cable and satellite television channel. This primarily shows animated programming and some live-action shows. Advertising in Pogo will help the brand to reach out to the right target audience. Pogo channel only for kids of India owned by TurnerInternational India reaching more than 30 million viewers."
+		},
+		{
+			"id":3,
+			"Channel_Name":"Cartoon Network Hindi",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/kids3.png?alt=media&token=0245b1d1-9a53-4601-9351-6c9370013a16",
+			"Description":"Cartoon Network is an American cable television channel. And primarily broadcasts animated television series, mostly children's programming, ranging from action to animated comedy. It is targeted at children between ages 7 and 15."
+		},
+		{
+			"id":4,
+			"Channel_Name":"Sonic Hindi",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/kids4.png?alt=media&token=62f4d9cc-9fa6-46bd-a44e-5ed7bfcbfc62",
+			"Description":"Sega developed the first Sonic game, released in 1991 for the Sega Genesis, to compete with Nintendo's mascot Mario. Its success helped Sega become one of the leading video game companies during the fourth generation of video game consoles in the early 1990s."
+		}
+	],
+	"Bhakti Tv":[
+		{
+			"id":1,
+			"Channel_Name":"Aastha",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/bhakti1.png?alt=media&token=abfcdc8f-5d0f-4dbf-a01e-bd1f0dbab991",
+			"Description":"Aastha is a spiritual TV network in India. It is owned by Aastha Broadcasting Network Ltd. Its programs feature spiritual discourses, socio-cultural ceremonies and religious events, accompanied by meditation techniques and devotional music."
+		},
+		{
+			"id":2,
+			"Channel_Name":"Sanskar",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/bhakti2.png?alt=media&token=63e3ce93-3437-4e58-aac2-27d3369de57f",
+			"Description":"Sanskar is an Indian television channel dedicated to broadcasting programs on the \"Indian philosophy, religion, spiritual solidarity, and culture\" and focuses more on devotion than spiritualism."
+		},
+		{
+			"id":3,
+			"Channel_Name":"Aastha Bhajan",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/bhakti3.png?alt=media&token=94d4e0e4-7bcd-478a-ad14-c91971749d0c",
+			"Description":"Aastha Bhajan Advertising in ensures maximum visibility for your brand. If your advertisement is about Spiritual ,you should choose the Genre That best fits your needs."
+		},
+		{
+			"id":4,
+			"Channel_Name":"Lakshya TV",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/bhakti4.png?alt=media&token=8ee3e6e5-1d26-43a2-b026-78adf3d05293",
+			"Description":"Lakshyya TV is a Bhubaneswar-based Odia 24/7 entertainment channel and website from Lakshyya Entertainment Ltd which is one of Odisha’s leading television, media and entertainment companies. It strives to be amongst the largest producers and aggregators of Odia programming in Odisha."
+		},
+		{
+			"id":5,
+			"Channel_Name":"Divya TV",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/bhakti5.png?alt=media&token=fed8791d-328b-4ace-8fc8-31e551e5cf5f",
+			"Description":"Channel Divya is a Hindi-language 24/7 television channel, owned by Divya Broadcasting Network Pvt. Ltd. Chandigarh. The channel is free-to-air and available across all major cable and DTH platforms as well as online."
+		}
+	],
+	"Discovery Tv":[
+		{
+			"id":1,
+			"Channel_Name":"Discovery Hindi",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/discovery1.png?alt=media&token=479c0064-1d55-445f-a567-37bb63762a33",
+			"Description":"Discovery Channel (known as The Discovery Channel from 1985 to 1995, and often referred to as simply Discovery) is an American cable channel owned by Warner Bros. Discovery, a publicly traded company run by CEO David Zaslav."
+		},
+		{
+			"id":2,
+			"Channel_Name":"History 18 Hindi",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/discovery2.png?alt=media&token=cb443b49-b36c-48cb-85c5-d5bf7d4a7a14",
+			"Description":"History TV18 is a television channel in India. It broadcasts infotainment and documentry shows. It is owned by a joint venture between A+E Networks, owner of the American History channel, and TV18, an Indian media group owned by Mukesh Ambani.["
+		},
+		{
+			"id":3,
+			"Channel_Name":"Discovery Science",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/discovery3.png?alt=media&token=2705e129-c4bb-4346-be36-6f1034500b30",
+			"Description":"Discovery Science India is a science television channel owned by Discovery India. The channel was launched in 2010.From 1 March 2021, it began to follow a timeshifted schedule of the Southeast Asia feed."
+		},
+		{
+			"id":4,
+			"Channel_Name":"Animal Planet English",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/discovery4.png?alt=media&token=69adc1c4-258c-47e1-8e5c-4ca9103afe26",
+			"Description":"The channel was originally a joint venture with BBC Worldwide, and primarily focused on nature documentaries surrounding wildlife, targeting a family audience. In 2008, Animal Planet rebranded with a more mature programming direction."
+		},
+		{
+			"id":5,
+			"Channel_Name":"TLC Hindi",
+			"img":"https://firebasestorage.googleapis.com/v0/b/ott-movie-d73a8.appspot.com/o/discovery5.png?alt=media&token=745be4b6-bf2e-4f8c-9462-24b83f6a4f2e",
+			"Description":"TLC India is an Indian television channel, previously known as Discovery Travel & Living. It focuses on lifestyle programmes, with topics such health, cooking and travel.The channel launched in October 2004 and was the first international channel launched under the \"Discovery Travel & Living\" name."
+		}
+	]
+  }
+}
